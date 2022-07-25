@@ -1,0 +1,18 @@
+L 02/11/2022 - 00:14:31: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220211.log") (Version "1.10.0.6528")
+L 02/11/2022 - 00:14:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/11/2022 - 00:14:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/11/2022 - 00:36:10: -------- Mapchange to c5m1_waterfront --------
+L 02/11/2022 - 00:36:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/11/2022 - 00:36:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/11/2022 - 00:46:35: -------- Mapchange to c5m2_park --------
+L 02/11/2022 - 00:46:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/11/2022 - 00:46:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/11/2022 - 01:06:34: -------- Mapchange to c5m3_cemetery --------
+L 02/11/2022 - 01:06:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/11/2022 - 01:06:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/11/2022 - 01:31:03: -------- Mapchange to c5m4_quarter --------
+L 02/11/2022 - 01:31:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/11/2022 - 01:31:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/11/2022 - 01:36:03: -------- Mapchange to c10m1_caves --------
+L 02/11/2022 - 01:36:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/11/2022 - 01:36:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")

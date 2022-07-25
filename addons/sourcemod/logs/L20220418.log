@@ -1,0 +1,9 @@
+L 04/18/2022 - 01:40:41: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220418.log") (Version "1.10.0.6528")
+L 04/18/2022 - 01:40:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 04/18/2022 - 01:40:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 04/18/2022 - 02:01:45: -------- Mapchange to c4m2_sugarmill_a --------
+L 04/18/2022 - 02:01:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 04/18/2022 - 02:01:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 04/18/2022 - 02:13:31: -------- Mapchange to c4m1_milltown_a --------
+L 04/18/2022 - 02:13:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 04/18/2022 - 02:13:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")

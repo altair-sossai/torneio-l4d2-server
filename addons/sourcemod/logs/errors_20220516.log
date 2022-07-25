@@ -1,0 +1,20 @@
+L 05/16/2022 - 09:06:28: SourceMod error session started
+L 05/16/2022 - 09:06:28: Info (map "c1m1_hotel") (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/errors_20220516.log")
+L 05/16/2022 - 09:06:28: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 05/16/2022 - 09:06:28: [SM] Unrecognized library "matchmaking_ds" (gameconf "/home/steam/l4d2/left4dead2/addons/sourcemod/gamedata/l4dslots.txt")
+L 05/16/2022 - 09:06:36: [l4dslots.smx] sv_maxplayers MS init error
+L 05/16/2022 - 09:19:31: SourceMod error session started
+L 05/16/2022 - 09:19:31: Info (map "c1m1_hotel") (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/errors_20220516.log")
+L 05/16/2022 - 09:19:31: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 05/16/2022 - 09:19:31: [SM] Unrecognized library "matchmaking_ds" (gameconf "/home/steam/l4d2/left4dead2/addons/sourcemod/gamedata/l4dslots.txt")
+L 05/16/2022 - 09:19:33: [l4dslots.smx] sv_maxplayers MS init error
+L 05/16/2022 - 09:20:48: SourceMod error session started
+L 05/16/2022 - 09:20:48: Info (map "c1m1_hotel") (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/errors_20220516.log")
+L 05/16/2022 - 09:20:48: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 05/16/2022 - 09:20:48: [SM] Unrecognized library "matchmaking_ds" (gameconf "/home/steam/l4d2/left4dead2/addons/sourcemod/gamedata/l4dslots.txt")
+L 05/16/2022 - 09:20:50: [l4dslots.smx] sv_maxplayers MS init error
+L 05/16/2022 - 09:23:18: SourceMod error session started
+L 05/16/2022 - 09:23:18: Info (map "c1m1_hotel") (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/errors_20220516.log")
+L 05/16/2022 - 09:23:18: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 05/16/2022 - 09:23:18: [SM] Unrecognized library "matchmaking_ds" (gameconf "/home/steam/l4d2/left4dead2/addons/sourcemod/gamedata/l4dslots.txt")
+L 05/16/2022 - 09:23:20: [l4dslots.smx] sv_maxplayers MS init error

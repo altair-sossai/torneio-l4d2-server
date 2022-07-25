@@ -1,0 +1,15 @@
+L 05/28/2022 - 02:54:56: SourceMod error session started
+L 05/28/2022 - 02:54:56: Info (map "c10m5_houseboat") (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/errors_20220528.log")
+L 05/28/2022 - 02:54:56: [SM] Exception reported: Client index -1 is invalid
+L 05/28/2022 - 02:54:56: [SM] Blaming: l4d2_bwa_teamspanel.smx
+L 05/28/2022 - 02:54:56: [SM] Call stack trace:
+L 05/28/2022 - 02:54:56: [SM]   [0] GetClientTeam
+L 05/28/2022 - 02:54:56: [SM]   [1] Line 1843, /home/forums/content/files/9/9/8/5/2/95471.attach::PerformSwap
+L 05/28/2022 - 02:54:56: [SM]   [2] Line 468, /home/forums/content/files/9/9/8/5/2/95471.attach::Admin_MnuHdlr_ChooseSwapPlayer
+L 05/28/2022 - 02:56:02: Error log file session closed.
+L 05/28/2022 - 19:13:20: SourceMod error session started
+L 05/28/2022 - 19:13:20: Info (map "c1m1_hotel") (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/errors_20220528.log")
+L 05/28/2022 - 19:13:20: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 05/28/2022 - 19:13:20: [SM] Unrecognized library "matchmaking_ds" (gameconf "/home/steam/l4d2/left4dead2/addons/sourcemod/gamedata/l4dslots.txt")
+L 05/28/2022 - 19:13:27: [l4dslots.smx] sv_maxplayers MS init error
+L 05/28/2022 - 19:13:45: Error log file session closed.

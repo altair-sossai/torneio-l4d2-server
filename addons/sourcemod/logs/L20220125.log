@@ -1,0 +1,96 @@
+L 01/25/2022 - 14:39:53: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220125.log") (Version "1.10.0.6528")
+L 01/25/2022 - 14:39:53: -------- Mapchange to c1m1_hotel --------
+L 01/25/2022 - 14:50:45: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220125.log") (Version "1.10.0.6528")
+L 01/25/2022 - 14:50:45: -------- Mapchange to c1m1_hotel --------
+L 01/25/2022 - 14:55:17: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220125.log") (Version "1.10.0.6528")
+L 01/25/2022 - 14:55:17: -------- Mapchange to c1m1_hotel --------
+L 01/25/2022 - 14:59:36: -------- Mapchange to c1m2_streets --------
+L 01/25/2022 - 14:59:43: -------- Mapchange to c1m1_hotel --------
+L 01/25/2022 - 15:02:21: -------- Mapchange to c1m1_hotel --------
+L 01/25/2022 - 15:06:27: -------- Mapchange to c1m1_hotel --------
+L 01/25/2022 - 15:11:42: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220125.log") (Version "1.10.0.6528")
+L 01/25/2022 - 15:11:42: -------- Mapchange to c1m1_hotel --------
+L 01/25/2022 - 15:13:26: [basecommands.smx] "Altair<2><STEAM_1:0:90628109><>" kicked "Daniel Molo<5><STEAM_1:1:591580472><>" (reason "")
+L 01/25/2022 - 15:14:46: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "el hombre de las mil caras<4><STEAM_1:0:433040740><>"
+L 01/25/2022 - 15:14:52: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "Paneludo<10><STEAM_1:1:450007473><>"
+L 01/25/2022 - 15:14:58: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "zauro<15><STEAM_1:0:525891841><>"
+L 01/25/2022 - 15:15:19: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "Paneludo<10><STEAM_1:1:450007473><>"
+L 01/25/2022 - 15:15:19: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "zauro<15><STEAM_1:0:525891841><>"
+L 01/25/2022 - 15:15:30: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "el hombre de las mil caras<4><STEAM_1:0:433040740><>"
+L 01/25/2022 - 15:15:38: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "Paneludo<10><STEAM_1:1:450007473><>"
+L 01/25/2022 - 15:15:39: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "el hombre de las mil caras<4><STEAM_1:0:433040740><>"
+L 01/25/2022 - 15:15:40: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "zauro<15><STEAM_1:0:525891841><>"
+L 01/25/2022 - 15:15:48: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "Altair<2><STEAM_1:0:90628109><>"
+L 01/25/2022 - 15:15:49: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "Altair<2><STEAM_1:0:90628109><>"
+L 01/25/2022 - 15:15:49: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "Altair<2><STEAM_1:0:90628109><>"
+L 01/25/2022 - 15:15:51: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "Altair<2><STEAM_1:0:90628109><>"
+L 01/25/2022 - 15:16:02: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "zauro<15><STEAM_1:0:525891841><>"
+L 01/25/2022 - 15:16:04: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "Rochelle<19><BOT><>"
+L 01/25/2022 - 15:16:09: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "zauro<15><STEAM_1:0:525891841><>"
+L 01/25/2022 - 15:16:20: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "zauro<15><STEAM_1:0:525891841><>"
+L 01/25/2022 - 15:16:24: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "Paneludo<10><STEAM_1:1:450007473><>"
+L 01/25/2022 - 15:16:33: -------- Mapchange to c1m2_streets --------
+L 01/25/2022 - 15:16:34: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220125.log") (Version "1.10.0.6528")
+L 01/25/2022 - 15:16:34: -------- Mapchange to c1m1_hotel --------
+L 01/25/2022 - 15:27:24: -------- Mapchange to c1m3_mall --------
+L 01/25/2022 - 15:27:30: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220125.log") (Version "1.10.0.6528")
+L 01/25/2022 - 15:27:30: -------- Mapchange to c1m1_hotel --------
+L 01/25/2022 - 17:31:41: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220125.log") (Version "1.10.0.6528")
+L 01/25/2022 - 17:31:41: -------- Mapchange to c1m1_hotel --------
+L 01/25/2022 - 17:38:44: [basecommands.smx] "Altair<2><STEAM_1:0:90628109><>" changed map to "c2m1_highway"
+L 01/25/2022 - 17:38:47: [SM] Changed map to "c2m1_highway"
+L 01/25/2022 - 17:38:48: -------- Mapchange to c2m1_highway --------
+L 01/25/2022 - 17:44:37: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220125.log") (Version "1.10.0.6528")
+L 01/25/2022 - 17:44:37: -------- Mapchange to c1m1_hotel --------
+L 01/25/2022 - 17:45:41: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "Altair<2><STEAM_1:0:90628109><>"
+L 01/25/2022 - 17:45:52: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "Altair<2><STEAM_1:0:90628109><>"
+L 01/25/2022 - 17:46:07: -------- Mapchange to c1m2_streets --------
+L 01/25/2022 - 17:51:07: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "Mr.Dino13<11><STEAM_1:0:158058646><>"
+L 01/25/2022 - 17:51:09: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "xxsebasrexx<9><STEAM_1:1:578869800><>"
+L 01/25/2022 - 17:51:10: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "josef7550<10><STEAM_1:0:578381392><>"
+L 01/25/2022 - 17:51:13: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "Altair<2><STEAM_1:0:90628109><>"
+L 01/25/2022 - 17:51:19: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "Altair<2><STEAM_1:0:90628109><>"
+L 01/25/2022 - 17:51:23: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "Altair<2><STEAM_1:0:90628109><>"
+L 01/25/2022 - 17:51:31: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "Mr.Dino13<11><STEAM_1:0:158058646><>"
+L 01/25/2022 - 17:51:34: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "Altair<2><STEAM_1:0:90628109><>"
+L 01/25/2022 - 17:51:49: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "xxsebasrexx<9><STEAM_1:1:578869800><>"
+L 01/25/2022 - 17:51:55: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "xxsebasrexx<9><STEAM_1:1:578869800><>"
+L 01/25/2022 - 17:52:05: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "Mr.Dino13<11><STEAM_1:0:158058646><>"
+L 01/25/2022 - 17:52:08: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "Mr.Dino13<11><STEAM_1:0:158058646><>"
+L 01/25/2022 - 17:52:09: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "Mr.Dino13<11><STEAM_1:0:158058646><>"
+L 01/25/2022 - 17:52:10: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "Mr.Dino13<11><STEAM_1:0:158058646><>"
+L 01/25/2022 - 17:52:11: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "Mr.Dino13<11><STEAM_1:0:158058646><>"
+L 01/25/2022 - 17:52:12: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "Mr.Dino13<11><STEAM_1:0:158058646><>"
+L 01/25/2022 - 17:52:12: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "Mr.Dino13<11><STEAM_1:0:158058646><>"
+L 01/25/2022 - 17:52:12: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "Mr.Dino13<11><STEAM_1:0:158058646><>"
+L 01/25/2022 - 17:52:13: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "Mr.Dino13<11><STEAM_1:0:158058646><>"
+L 01/25/2022 - 17:52:13: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "Mr.Dino13<11><STEAM_1:0:158058646><>"
+L 01/25/2022 - 17:52:13: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "Mr.Dino13<11><STEAM_1:0:158058646><>"
+L 01/25/2022 - 17:52:13: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "Mr.Dino13<11><STEAM_1:0:158058646><>"
+L 01/25/2022 - 17:52:15: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "Mr.Dino13<11><STEAM_1:0:158058646><>"
+L 01/25/2022 - 17:52:27: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "Mr.Dino13<11><STEAM_1:0:158058646><>"
+L 01/25/2022 - 17:52:30: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "Mr.Dino13<11><STEAM_1:0:158058646><>"
+L 01/25/2022 - 17:52:38: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" toggled noclip on "Mr.Dino13<11><STEAM_1:0:158058646><>"
+L 01/25/2022 - 17:52:54: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" set a FireBomb on "Mr.Dino13<11><STEAM_1:0:158058646><>"
+L 01/25/2022 - 17:53:09: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" set a FireBomb on "Mr.Dino13<11><STEAM_1:0:158058646><>"
+L 01/25/2022 - 17:56:25: [basecommands.smx] "Altair<49><STEAM_1:0:90628109><>" changed map to "c2m1_highway"
+L 01/25/2022 - 17:56:28: [SM] Changed map to "c2m1_highway"
+L 01/25/2022 - 17:56:28: -------- Mapchange to c2m1_highway --------
+L 01/25/2022 - 18:12:38: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220125.log") (Version "1.10.0.6528")
+L 01/25/2022 - 18:12:38: -------- Mapchange to c1m1_hotel --------
+L 01/25/2022 - 19:52:27: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220125.log") (Version "1.10.0.6528")
+L 01/25/2022 - 19:52:27: -------- Mapchange to c1m1_hotel --------
+L 01/25/2022 - 19:56:08: [funcommands.smx] "Altair<10><STEAM_1:0:90628109><>" drugged "Anão Foda<3><STEAM_1:1:519562814><>"
+L 01/25/2022 - 19:56:18: [funcommands.smx] "Altair<10><STEAM_1:0:90628109><>" undrugged "Anão Foda<3><STEAM_1:1:519562814><>"
+L 01/25/2022 - 19:56:33: [funcommands.smx] "Altair<10><STEAM_1:0:90628109><>" toggled noclip on "Altair<10><STEAM_1:0:90628109><>"
+L 01/25/2022 - 19:56:35: [funcommands.smx] "Altair<10><STEAM_1:0:90628109><>" toggled noclip on "Anão Foda<3><STEAM_1:1:519562814><>"
+L 01/25/2022 - 19:56:42: [funcommands.smx] "Altair<10><STEAM_1:0:90628109><>" toggled noclip on "Altair<10><STEAM_1:0:90628109><>"
+L 01/25/2022 - 19:56:48: [funcommands.smx] "Altair<10><STEAM_1:0:90628109><>" toggled noclip on "Altair<10><STEAM_1:0:90628109><>"
+L 01/25/2022 - 19:58:56: -------- Mapchange to c1m2_streets --------
+L 01/25/2022 - 20:09:39: -------- Mapchange to c8m1_apartment --------
+L 01/25/2022 - 20:17:33: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220125.log") (Version "1.10.0.6528")
+L 01/25/2022 - 20:17:33: -------- Mapchange to c8m1_apartment --------
+L 01/25/2022 - 20:27:23: -------- Mapchange to c8m2_subway --------
+L 01/25/2022 - 20:48:45: -------- Mapchange to c8m3_sewers --------
+L 01/25/2022 - 21:08:40: -------- Mapchange to c8m4_interior --------
+L 01/25/2022 - 21:23:55: -------- Mapchange to c8m5_rooftop --------

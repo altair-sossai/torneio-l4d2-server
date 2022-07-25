@@ -1,0 +1,22 @@
+L 05/06/2022 - 15:42:48: SourceMod error session started
+L 05/06/2022 - 15:42:48: Info (map "c1m1_hotel") (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/errors_20220506.log")
+L 05/06/2022 - 15:42:48: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 05/06/2022 - 15:42:48: [SM] Unrecognized library "matchmaking_ds" (gameconf "/home/steam/l4d2/left4dead2/addons/sourcemod/gamedata/l4dslots.txt")
+L 05/06/2022 - 15:43:00: [l4dslots.smx] sv_maxplayers MS init error
+L 05/06/2022 - 17:55:40: SourceMod error session started
+L 05/06/2022 - 17:55:40: Info (map "c1m1_hotel") (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/errors_20220506.log")
+L 05/06/2022 - 17:55:40: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 05/06/2022 - 17:55:40: [SM] Unrecognized library "matchmaking_ds" (gameconf "/home/steam/l4d2/left4dead2/addons/sourcemod/gamedata/l4dslots.txt")
+L 05/06/2022 - 17:55:42: [l4dslots.smx] sv_maxplayers MS init error
+L 05/06/2022 - 18:37:46: SourceMod error session started
+L 05/06/2022 - 18:37:46: Info (map "c1m1_hotel") (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/errors_20220506.log")
+L 05/06/2022 - 18:37:46: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 05/06/2022 - 18:37:46: [SM] Unrecognized library "matchmaking_ds" (gameconf "/home/steam/l4d2/left4dead2/addons/sourcemod/gamedata/l4dslots.txt")
+L 05/06/2022 - 18:37:53: [l4dslots.smx] sv_maxplayers MS init error
+L 05/06/2022 - 18:38:28: Error log file session closed.
+L 05/06/2022 - 23:42:48: SourceMod error session started
+L 05/06/2022 - 23:42:48: Info (map "c1m1_hotel") (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/errors_20220506.log")
+L 05/06/2022 - 23:42:48: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 05/06/2022 - 23:42:48: [SM] Unrecognized library "matchmaking_ds" (gameconf "/home/steam/l4d2/left4dead2/addons/sourcemod/gamedata/l4dslots.txt")
+L 05/06/2022 - 23:42:55: [l4dslots.smx] sv_maxplayers MS init error
+L 05/06/2022 - 23:44:44: Error log file session closed.

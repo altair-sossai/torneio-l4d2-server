@@ -1,0 +1,19 @@
+L 02/15/2022 - 20:23:36: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220215.log") (Version "1.10.0.6528")
+L 02/15/2022 - 20:23:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/15/2022 - 20:23:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/15/2022 - 20:24:26: -------- Mapchange to c8m1_apartment --------
+L 02/15/2022 - 20:24:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/15/2022 - 20:24:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/15/2022 - 20:35:33: -------- Mapchange to c8m2_subway --------
+L 02/15/2022 - 20:35:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/15/2022 - 20:35:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/15/2022 - 20:50:23: [basecommands.smx] "mind<6><STEAM_1:1:53759167><>" kicked "isaac013shalon<29><STEAM_1:0:592723001><>" (reason "")
+L 02/15/2022 - 20:52:35: -------- Mapchange to c8m3_sewers --------
+L 02/15/2022 - 20:52:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/15/2022 - 20:52:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/15/2022 - 21:14:23: -------- Mapchange to c8m4_interior --------
+L 02/15/2022 - 21:14:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/15/2022 - 21:14:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/15/2022 - 21:29:22: -------- Mapchange to c8m5_rooftop --------
+L 02/15/2022 - 21:29:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/15/2022 - 21:29:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")

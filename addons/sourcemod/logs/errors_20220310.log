@@ -1,0 +1,22 @@
+L 03/10/2022 - 00:18:18: SourceMod error session started
+L 03/10/2022 - 00:18:18: Info (map "c8m2_subway") (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/errors_20220310.log")
+L 03/10/2022 - 00:18:18: [SM] Exception reported: Client 5 is not in game
+L 03/10/2022 - 00:18:18: [SM] Blaming: l4d2_bwa_teamspanel.smx
+L 03/10/2022 - 00:18:18: [SM] Call stack trace:
+L 03/10/2022 - 00:18:18: [SM]   [0] IsPlayerAlive
+L 03/10/2022 - 00:18:18: [SM]   [1] Line 1395, /home/forums/content/files/9/9/8/5/2/95471.attach::BuildPlayerPanel
+L 03/10/2022 - 00:18:18: [SM]   [2] Line 1280, /home/forums/content/files/9/9/8/5/2/95471.attach::ShowLastRoundTeamPanel
+L 03/10/2022 - 00:18:18: [SM]   [3] Line 1971, /home/forums/content/files/9/9/8/5/2/95471.attach::SwitchMenu_MenuHandler
+L 03/10/2022 - 00:19:32: Error log file session closed.
+L 03/10/2022 - 00:33:51: SourceMod error session started
+L 03/10/2022 - 00:33:51: Info (map "c1m1_hotel") (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/errors_20220310.log")
+L 03/10/2022 - 00:33:51: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 03/10/2022 - 00:33:51: [SM] Unrecognized library "matchmaking_ds" (gameconf "/home/steam/l4d2/left4dead2/addons/sourcemod/gamedata/l4dslots.txt")
+L 03/10/2022 - 00:33:53: [l4dslots.smx] sv_maxplayers MS init error
+L 03/10/2022 - 00:33:58: Error log file session closed.
+L 03/10/2022 - 01:29:19: SourceMod error session started
+L 03/10/2022 - 01:29:19: Info (map "c1m1_hotel") (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/errors_20220310.log")
+L 03/10/2022 - 01:29:19: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 03/10/2022 - 01:29:19: [SM] Unrecognized library "matchmaking_ds" (gameconf "/home/steam/l4d2/left4dead2/addons/sourcemod/gamedata/l4dslots.txt")
+L 03/10/2022 - 01:29:21: [l4dslots.smx] sv_maxplayers MS init error
+L 03/10/2022 - 01:29:35: Error log file session closed.

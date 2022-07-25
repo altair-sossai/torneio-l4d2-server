@@ -1,0 +1,126 @@
+L 01/23/2022 - 17:36:34: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220123.log") (Version "1.10.0.6528")
+L 01/23/2022 - 17:36:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1.0")
+L 01/23/2022 - 17:36:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1.0")
+L 01/23/2022 - 17:36:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1.0000")
+L 01/23/2022 - 17:36:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "1.0")
+L 01/23/2022 - 17:36:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "1.0")
+L 01/23/2022 - 17:36:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 01/23/2022 - 17:37:42: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220123.log") (Version "1.10.0.6528")
+L 01/23/2022 - 17:37:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1.0")
+L 01/23/2022 - 17:37:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1.0")
+L 01/23/2022 - 17:37:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1.0000")
+L 01/23/2022 - 17:37:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "1.0")
+L 01/23/2022 - 17:37:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "1.0")
+L 01/23/2022 - 17:37:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 01/23/2022 - 17:41:13: -------- Mapchange to c8m1_apartment --------
+L 01/23/2022 - 17:41:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1.0")
+L 01/23/2022 - 17:41:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1.0")
+L 01/23/2022 - 17:41:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1.0000")
+L 01/23/2022 - 17:41:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "1.0")
+L 01/23/2022 - 17:41:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "1.0")
+L 01/23/2022 - 17:41:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 01/23/2022 - 17:43:57: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220123.log") (Version "1.10.0.6528")
+L 01/23/2022 - 17:43:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1.0")
+L 01/23/2022 - 17:43:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1.0")
+L 01/23/2022 - 17:43:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1.0000")
+L 01/23/2022 - 17:43:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "1.0")
+L 01/23/2022 - 17:43:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "1.0")
+L 01/23/2022 - 17:43:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 01/23/2022 - 17:46:42: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220123.log") (Version "1.10.0.6528")
+L 01/23/2022 - 17:46:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1.0")
+L 01/23/2022 - 17:46:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1.0")
+L 01/23/2022 - 17:46:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1.0000")
+L 01/23/2022 - 17:46:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "1.0")
+L 01/23/2022 - 17:46:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "1.0")
+L 01/23/2022 - 17:46:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 01/23/2022 - 17:51:53: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220123.log") (Version "1.10.0.6528")
+L 01/23/2022 - 17:51:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 01/23/2022 - 17:53:07: -------- Mapchange to c8m1_apartment --------
+L 01/23/2022 - 17:53:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 01/23/2022 - 18:01:46: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220123.log") (Version "1.10.0.6528")
+L 01/23/2022 - 18:01:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 01/23/2022 - 18:03:21: -------- Mapchange to c8m1_apartment --------
+L 01/23/2022 - 18:03:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 01/23/2022 - 18:05:31: [basecommands.smx] "Altair<2><STEAM_1:0:90628109><>" executed config (file "server.cfg")
+L 01/23/2022 - 18:05:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 01/23/2022 - 18:05:50: [basecommands.smx] "Altair<2><STEAM_1:0:90628109><>" executed config (file "sourcemod/sm_warmode_off.cfg")
+L 01/23/2022 - 18:07:52: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" set a beacon on "Francis<4><BOT><>"
+L 01/23/2022 - 18:08:09: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" removed a beacon on "Francis<4><BOT><>"
+L 01/23/2022 - 18:08:11: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" set a beacon on "Francis<4><BOT><>"
+L 01/23/2022 - 18:08:17: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" set a beacon on "Jockey<19><BOT><>"
+L 01/23/2022 - 18:08:19: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" set a beacon on "Altair<2><STEAM_1:0:90628109><>"
+L 01/23/2022 - 18:08:20: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" removed a beacon on "Altair<2><STEAM_1:0:90628109><>"
+L 01/23/2022 - 18:08:21: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" set a beacon on "Altair<2><STEAM_1:0:90628109><>"
+L 01/23/2022 - 18:08:21: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" removed a beacon on "Altair<2><STEAM_1:0:90628109><>"
+L 01/23/2022 - 18:08:21: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" set a beacon on "Altair<2><STEAM_1:0:90628109><>"
+L 01/23/2022 - 18:08:21: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" removed a beacon on "Altair<2><STEAM_1:0:90628109><>"
+L 01/23/2022 - 18:08:22: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" set a beacon on "Altair<2><STEAM_1:0:90628109><>"
+L 01/23/2022 - 18:08:22: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" removed a beacon on "Altair<2><STEAM_1:0:90628109><>"
+L 01/23/2022 - 18:08:23: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" set a beacon on "Altair<2><STEAM_1:0:90628109><>"
+L 01/23/2022 - 18:08:26: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" removed a beacon on "Altair<2><STEAM_1:0:90628109><>"
+L 01/23/2022 - 18:08:31: [funcommands.smx] "Altair<2><STEAM_1:0:90628109><>" set a beacon on "Altair<2><STEAM_1:0:90628109><>"
+L 01/23/2022 - 18:08:38: [playercommands.smx] "Altair<2><STEAM_1:0:90628109><>" slayed "Altair<2><STEAM_1:0:90628109><>"
+L 01/23/2022 - 18:18:44: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220123.log") (Version "1.10.0.6528")
+L 01/23/2022 - 18:18:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 01/23/2022 - 18:19:20: -------- Mapchange to c8m1_apartment --------
+L 01/23/2022 - 18:19:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 01/23/2022 - 18:26:21: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220123.log") (Version "1.10.0.6528")
+L 01/23/2022 - 18:26:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 01/23/2022 - 18:27:38: -------- Mapchange to c8m1_apartment --------
+L 01/23/2022 - 18:27:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 01/23/2022 - 18:29:15: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220123.log") (Version "1.10.0.6528")
+L 01/23/2022 - 18:29:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 01/23/2022 - 18:36:36: -------- Mapchange to c2m1_highway --------
+L 01/23/2022 - 18:36:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 01/23/2022 - 18:39:48: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220123.log") (Version "1.10.0.6528")
+L 01/23/2022 - 18:39:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 01/23/2022 - 18:44:22: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220123.log") (Version "1.10.0.6528")
+L 01/23/2022 - 18:44:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 01/23/2022 - 18:44:49: -------- Mapchange to c8m1_apartment --------
+L 01/23/2022 - 18:44:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "9999")
+L 01/23/2022 - 18:48:27: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220123.log") (Version "1.10.0.6528")
+L 01/23/2022 - 18:48:27: -------- Mapchange to c3m3_shantytown --------
+L 01/23/2022 - 18:49:21: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220123.log") (Version "1.10.0.6528")
+L 01/23/2022 - 18:49:21: -------- Mapchange to c8m1_apartment --------
+L 01/23/2022 - 18:58:06: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220123.log") (Version "1.10.0.6528")
+L 01/23/2022 - 18:58:06: -------- Mapchange to c1m1_hotel --------
+L 01/23/2022 - 19:00:12: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220123.log") (Version "1.10.0.6528")
+L 01/23/2022 - 19:00:12: -------- Mapchange to c8m1_apartment --------
+L 01/23/2022 - 19:05:07: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220123.log") (Version "1.10.0.6528")
+L 01/23/2022 - 19:05:07: -------- Mapchange to c8m1_apartment --------
+L 01/23/2022 - 19:07:56: -------- Mapchange to c8m1_apartment --------
+L 01/23/2022 - 19:13:37: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220123.log") (Version "1.10.0.6528")
+L 01/23/2022 - 19:13:37: -------- Mapchange to c8m1_apartment --------
+L 01/23/2022 - 19:21:18: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220123.log") (Version "1.10.0.6528")
+L 01/23/2022 - 19:21:18: -------- Mapchange to c8m1_apartment --------
+L 01/23/2022 - 19:27:25: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220123.log") (Version "1.10.0.6528")
+L 01/23/2022 - 19:27:25: -------- Mapchange to c8m1_apartment --------
+L 01/23/2022 - 19:35:03: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220123.log") (Version "1.10.0.6528")
+L 01/23/2022 - 19:35:03: -------- Mapchange to c8m1_apartment --------
+L 01/23/2022 - 19:44:23: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220123.log") (Version "1.10.0.6528")
+L 01/23/2022 - 19:44:23: -------- Mapchange to c8m1_apartment --------
+L 01/23/2022 - 19:54:13: -------- Mapchange to c8m2_subway --------
+L 01/23/2022 - 19:55:20: -------- Mapchange to c8m1_apartment --------
+L 01/23/2022 - 19:57:57: -------- Mapchange to c8m1_apartment --------
+L 01/23/2022 - 20:02:17: -------- Mapchange to c8m1_apartment --------
+L 01/23/2022 - 20:06:47: -------- Mapchange to c8m1_apartment --------
+L 01/23/2022 - 20:14:41: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220123.log") (Version "1.10.0.6528")
+L 01/23/2022 - 20:14:41: -------- Mapchange to c8m1_apartment --------
+L 01/23/2022 - 20:16:36: -------- Mapchange to c8m1_apartment --------
+L 01/23/2022 - 20:27:54: -------- Mapchange to c8m2_subway --------
+L 01/23/2022 - 20:50:13: -------- Mapchange to c8m3_sewers --------
+L 01/23/2022 - 21:14:43: -------- Mapchange to c8m4_interior --------
+L 01/23/2022 - 21:28:54: -------- Mapchange to c8m5_rooftop --------
+L 01/23/2022 - 21:30:55: [playercommands.smx] "Altair<4><STEAM_1:0:90628109><>" slapped "Vinni Vicius<2><STEAM_1:1:225061396><>" (damage "1")
+L 01/23/2022 - 21:39:49: [funcommands.smx] "Altair<4><STEAM_1:0:90628109><>" set a beacon on "Monoko<54><STEAM_1:1:581040114><>"
+L 01/23/2022 - 21:40:08: [funcommands.smx] "Altair<4><STEAM_1:0:90628109><>" removed a beacon on "Monoko<54><STEAM_1:1:581040114><>"
+L 01/23/2022 - 21:40:13: [funcommands.smx] "Altair<4><STEAM_1:0:90628109><>" set a beacon on "Monoko<54><STEAM_1:1:581040114><>"
+L 01/23/2022 - 21:40:50: [funcommands.smx] "Altair<4><STEAM_1:0:90628109><>" removed a beacon on "Monoko<54><STEAM_1:1:581040114><>"
+L 01/23/2022 - 21:41:24: [funcommands.smx] "Altair<4><STEAM_1:0:90628109><>" toggled noclip on "Altair<4><STEAM_1:0:90628109><>"
+L 01/23/2022 - 21:41:42: [funcommands.smx] "Altair<4><STEAM_1:0:90628109><>" toggled noclip on "Altair<4><STEAM_1:0:90628109><>"
+L 01/23/2022 - 21:42:07: [funcommands.smx] "Altair<4><STEAM_1:0:90628109><>" toggled noclip on "Vinni Vicius<2><STEAM_1:1:225061396><>"
+L 01/23/2022 - 21:42:20: [funcommands.smx] "Altair<4><STEAM_1:0:90628109><>" toggled noclip on "Mary_♥<16><STEAM_1:0:448052999><>"
+L 01/23/2022 - 21:42:27: [funcommands.smx] "Altair<4><STEAM_1:0:90628109><>" toggled noclip on "Altair<4><STEAM_1:0:90628109><>"
+L 01/23/2022 - 21:42:41: [funcommands.smx] "Altair<4><STEAM_1:0:90628109><>" toggled noclip on "Altair<4><STEAM_1:0:90628109><>"
+L 01/23/2022 - 21:42:47: [funcommands.smx] "Altair<4><STEAM_1:0:90628109><>" toggled noclip on "Pippinpaddleopsicopolis<69><STEAM_1:0:99537477><>"
+L 01/23/2022 - 21:43:35: -------- Mapchange to c8m1_apartment --------

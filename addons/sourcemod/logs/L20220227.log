@@ -1,0 +1,50 @@
+L 02/27/2022 - 18:38:25: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220227.log") (Version "1.10.0.6528")
+L 02/27/2022 - 18:38:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/27/2022 - 18:38:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/27/2022 - 18:39:25: -------- Mapchange to c8m1_apartment --------
+L 02/27/2022 - 18:39:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/27/2022 - 18:39:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/27/2022 - 18:43:16: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220227.log") (Version "1.10.0.6528")
+L 02/27/2022 - 18:43:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/27/2022 - 18:43:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/27/2022 - 18:43:27: -------- Mapchange to c8m1_apartment --------
+L 02/27/2022 - 18:43:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/27/2022 - 18:43:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/27/2022 - 18:52:18: -------- Mapchange to c8m1_apartment --------
+L 02/27/2022 - 18:52:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/27/2022 - 18:52:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/27/2022 - 19:02:34: -------- Mapchange to c8m2_subway --------
+L 02/27/2022 - 19:02:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/27/2022 - 19:02:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/27/2022 - 19:26:43: -------- Mapchange to c8m3_sewers --------
+L 02/27/2022 - 19:26:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/27/2022 - 19:26:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/27/2022 - 19:50:32: -------- Mapchange to c8m4_interior --------
+L 02/27/2022 - 19:50:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/27/2022 - 19:50:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/27/2022 - 20:01:32: -------- Mapchange to c8m5_rooftop --------
+L 02/27/2022 - 20:01:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/27/2022 - 20:01:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/27/2022 - 20:19:42: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220227.log") (Version "1.10.0.6528")
+L 02/27/2022 - 20:19:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/27/2022 - 20:19:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/27/2022 - 20:23:43: -------- Mapchange to c13m3_memorialbridge --------
+L 02/27/2022 - 20:23:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/27/2022 - 20:23:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/27/2022 - 20:26:56: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220227.log") (Version "1.10.0.6528")
+L 02/27/2022 - 20:26:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/27/2022 - 20:26:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/27/2022 - 20:27:30: -------- Mapchange to c8m1_apartment --------
+L 02/27/2022 - 20:27:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/27/2022 - 20:27:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/27/2022 - 20:28:36: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220227.log") (Version "1.10.0.6528")
+L 02/27/2022 - 20:28:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/27/2022 - 20:28:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/27/2022 - 20:28:38: -------- Mapchange to c8m1_apartment --------
+L 02/27/2022 - 20:28:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/27/2022 - 20:28:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/27/2022 - 20:31:49: [funcommands.smx] "Altair<4><STEAM_1:0:90628109><>" toggled noclip on "Altair<4><STEAM_1:0:90628109><>"
+L 02/27/2022 - 20:31:57: [funcommands.smx] "Altair<4><STEAM_1:0:90628109><>" toggled noclip on "armado batista<2><STEAM_1:0:549397307><>"
+L 02/27/2022 - 20:34:27: -------- Mapchange to c8m1_apartment --------
+L 02/27/2022 - 20:34:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/27/2022 - 20:34:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")

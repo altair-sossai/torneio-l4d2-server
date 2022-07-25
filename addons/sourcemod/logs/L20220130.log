@@ -1,0 +1,167 @@
+L 01/30/2022 - 00:07:03: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220130.log") (Version "1.10.0.6528")
+L 01/30/2022 - 00:07:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 01/30/2022 - 00:07:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "1")
+L 01/30/2022 - 13:05:06: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220130.log") (Version "1.10.0.6528")
+L 01/30/2022 - 13:05:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 01/30/2022 - 13:05:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "1")
+L 01/30/2022 - 13:06:08: -------- Mapchange to c14m1_junkyard --------
+L 01/30/2022 - 13:06:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 01/30/2022 - 13:06:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "1")
+L 01/30/2022 - 13:07:54: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" toggled noclip on "Altair<6><STEAM_1:0:90628109><>"
+L 01/30/2022 - 13:07:54: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" toggled noclip on "NᴏBᴏᴅʏ<8><STEAM_1:1:591587099><>"
+L 01/30/2022 - 13:08:15: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" toggled noclip on "Altair<6><STEAM_1:0:90628109><>"
+L 01/30/2022 - 13:08:39: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" toggled noclip on "NᴏBᴏᴅʏ<8><STEAM_1:1:591587099><>"
+L 01/30/2022 - 13:09:19: -------- Mapchange to c14m2_lighthouse --------
+L 01/30/2022 - 13:09:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 01/30/2022 - 13:09:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "1")
+L 01/30/2022 - 13:09:51: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" toggled noclip on "Altair<6><STEAM_1:0:90628109><>"
+L 01/30/2022 - 13:09:51: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" toggled noclip on "NᴏBᴏᴅʏ<8><STEAM_1:1:591587099><>"
+L 01/30/2022 - 13:16:38: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" toggled noclip on "Altair<6><STEAM_1:0:90628109><>"
+L 01/30/2022 - 13:16:38: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" toggled noclip on "NᴏBᴏᴅʏ<8><STEAM_1:1:591587099><>"
+L 01/30/2022 - 13:16:42: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" toggled noclip on "Francis<15><BOT><>"
+L 01/30/2022 - 13:16:42: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" toggled noclip on "Bill<16><BOT><>"
+L 01/30/2022 - 13:17:18: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" toggled noclip on "Francis<15><BOT><>"
+L 01/30/2022 - 13:17:18: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" toggled noclip on "Bill<16><BOT><>"
+L 01/30/2022 - 13:18:20: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" toggled noclip on "Zoey<38><BOT><>"
+L 01/30/2022 - 13:18:24: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" toggled noclip on "Zoey<38><BOT><>"
+L 01/30/2022 - 13:18:26: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" toggled noclip on "Zoey<38><BOT><>"
+L 01/30/2022 - 13:19:55: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" set a FireBomb on "Altair<6><STEAM_1:0:90628109><>"
+L 01/30/2022 - 13:19:59: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" removed a FireBomb on "Altair<6><STEAM_1:0:90628109><>"
+L 01/30/2022 - 13:20:00: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" set a FireBomb on "Altair<6><STEAM_1:0:90628109><>"
+L 01/30/2022 - 13:20:02: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" removed a FireBomb on "Altair<6><STEAM_1:0:90628109><>"
+L 01/30/2022 - 13:20:02: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" set a FireBomb on "Altair<6><STEAM_1:0:90628109><>"
+L 01/30/2022 - 13:20:02: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" removed a FireBomb on "Altair<6><STEAM_1:0:90628109><>"
+L 01/30/2022 - 13:20:02: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" set a FireBomb on "Altair<6><STEAM_1:0:90628109><>"
+L 01/30/2022 - 13:20:02: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" removed a FireBomb on "Altair<6><STEAM_1:0:90628109><>"
+L 01/30/2022 - 13:20:03: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" set a FireBomb on "Altair<6><STEAM_1:0:90628109><>"
+L 01/30/2022 - 13:20:03: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" set a FireBomb on "Altair<6><STEAM_1:0:90628109><>"
+L 01/30/2022 - 13:20:03: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" removed a FireBomb on "Altair<6><STEAM_1:0:90628109><>"
+L 01/30/2022 - 13:20:03: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" set a FireBomb on "Altair<6><STEAM_1:0:90628109><>"
+L 01/30/2022 - 13:20:06: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" set a FireBomb on "Altair<6><STEAM_1:0:90628109><>"
+L 01/30/2022 - 13:20:24: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" set a FireBomb on "Altair<6><STEAM_1:0:90628109><>"
+L 01/30/2022 - 13:20:28: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" removed a FireBomb on "Altair<6><STEAM_1:0:90628109><>"
+L 01/30/2022 - 13:20:37: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" set a TimeBomb on "Altair<6><STEAM_1:0:90628109><>"
+L 01/30/2022 - 13:20:40: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" removed a TimeBomb on "Altair<6><STEAM_1:0:90628109><>"
+L 01/30/2022 - 13:25:30: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" toggled noclip on "Altair<6><STEAM_1:0:90628109><>"
+L 01/30/2022 - 13:25:31: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" toggled noclip on "Altair<6><STEAM_1:0:90628109><>"
+L 01/30/2022 - 13:25:32: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" toggled noclip on "Altair<6><STEAM_1:0:90628109><>"
+L 01/30/2022 - 13:27:05: -------- Mapchange to c14m1_junkyard --------
+L 01/30/2022 - 13:27:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 01/30/2022 - 13:27:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "1")
+L 01/30/2022 - 13:27:57: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" toggled noclip on "Altair<6><STEAM_1:0:90628109><>"
+L 01/30/2022 - 13:27:58: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" toggled noclip on "Jortex<45><STEAM_1:1:636907678><>"
+L 01/30/2022 - 13:28:25: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" toggled noclip on "Altair<6><STEAM_1:0:90628109><>"
+L 01/30/2022 - 13:28:35: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" toggled noclip on "Tank<52><BOT><>"
+L 01/30/2022 - 13:28:37: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" toggled noclip on "Tank<52><BOT><>"
+L 01/30/2022 - 13:28:39: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" toggled noclip on "Jortex<45><STEAM_1:1:636907678><>"
+L 01/30/2022 - 13:30:07: -------- Mapchange to c14m2_lighthouse --------
+L 01/30/2022 - 13:30:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 01/30/2022 - 13:30:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "1")
+L 01/30/2022 - 13:30:33: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" toggled noclip on "Altair<6><STEAM_1:0:90628109><>"
+L 01/30/2022 - 13:30:33: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" toggled noclip on "kevao<51><STEAM_1:1:620432430><>"
+L 01/30/2022 - 13:30:34: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" toggled noclip on "Jortex<45><STEAM_1:1:636907678><>"
+L 01/30/2022 - 13:31:35: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" toggled noclip on "kevao<51><STEAM_1:1:620432430><>"
+L 01/30/2022 - 13:31:40: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" toggled noclip on "kevao<51><STEAM_1:1:620432430><>"
+L 01/30/2022 - 13:44:00: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" toggled noclip on "Altair<6><STEAM_1:0:90628109><>"
+L 01/30/2022 - 13:44:01: [funcommands.smx] "Altair<6><STEAM_1:0:90628109><>" toggled noclip on "Jortex<45><STEAM_1:1:636907678><>"
+L 01/30/2022 - 13:45:24: -------- Mapchange to c14m1_junkyard --------
+L 01/30/2022 - 13:45:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 01/30/2022 - 13:45:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "1")
+L 01/30/2022 - 13:46:09: [funcommands.smx] "Altair<96><STEAM_1:0:90628109><>" toggled noclip on "Altair<96><STEAM_1:0:90628109><>"
+L 01/30/2022 - 13:46:09: [funcommands.smx] "Altair<96><STEAM_1:0:90628109><>" toggled noclip on "Jortex<97><STEAM_1:1:636907678><>"
+L 01/30/2022 - 13:46:26: [funcommands.smx] "Altair<96><STEAM_1:0:90628109><>" toggled noclip on "Altair<96><STEAM_1:0:90628109><>"
+L 01/30/2022 - 13:47:04: [funcommands.smx] "Altair<96><STEAM_1:0:90628109><>" toggled noclip on "Jortex<97><STEAM_1:1:636907678><>"
+L 01/30/2022 - 13:48:31: -------- Mapchange to c14m2_lighthouse --------
+L 01/30/2022 - 13:48:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 01/30/2022 - 13:48:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "1")
+L 01/30/2022 - 13:49:00: [funcommands.smx] "Altair<96><STEAM_1:0:90628109><>" toggled noclip on "Altair<96><STEAM_1:0:90628109><>"
+L 01/30/2022 - 13:49:01: [funcommands.smx] "Altair<96><STEAM_1:0:90628109><>" toggled noclip on "Jortex<97><STEAM_1:1:636907678><>"
+L 01/30/2022 - 13:54:03: [funcommands.smx] "Altair<96><STEAM_1:0:90628109><>" toggled noclip on "Jortex<97><STEAM_1:1:636907678><>"
+L 01/30/2022 - 14:01:42: [funcommands.smx] "Altair<96><STEAM_1:0:90628109><>" toggled noclip on "Jortex<97><STEAM_1:1:636907678><>"
+L 01/30/2022 - 14:01:43: [funcommands.smx] "Altair<96><STEAM_1:0:90628109><>" toggled noclip on "Altair<96><STEAM_1:0:90628109><>"
+L 01/30/2022 - 14:06:52: -------- Mapchange to c14m1_junkyard --------
+L 01/30/2022 - 14:06:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 01/30/2022 - 14:06:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "1")
+L 01/30/2022 - 14:07:34: [funcommands.smx] "Altair<156><STEAM_1:0:90628109><>" toggled noclip on "Altair<156><STEAM_1:0:90628109><>"
+L 01/30/2022 - 14:07:34: [funcommands.smx] "Altair<156><STEAM_1:0:90628109><>" toggled noclip on "Jortex<157><STEAM_1:1:636907678><>"
+L 01/30/2022 - 14:07:49: [funcommands.smx] "Altair<156><STEAM_1:0:90628109><>" toggled noclip on "Altair<156><STEAM_1:0:90628109><>"
+L 01/30/2022 - 14:08:02: [funcommands.smx] "Altair<156><STEAM_1:0:90628109><>" toggled noclip on "Jortex<157><STEAM_1:1:636907678><>"
+L 01/30/2022 - 14:08:40: -------- Mapchange to c14m2_lighthouse --------
+L 01/30/2022 - 14:08:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 01/30/2022 - 14:08:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "1")
+L 01/30/2022 - 14:09:25: [funcommands.smx] "Altair<156><STEAM_1:0:90628109><>" toggled noclip on "Altair<156><STEAM_1:0:90628109><>"
+L 01/30/2022 - 14:09:27: [funcommands.smx] "Altair<156><STEAM_1:0:90628109><>" toggled noclip on "Jortex<157><STEAM_1:1:636907678><>"
+L 01/30/2022 - 14:19:45: [funcommands.smx] "Altair<156><STEAM_1:0:90628109><>" toggled noclip on "Altair<156><STEAM_1:0:90628109><>"
+L 01/30/2022 - 14:19:46: [funcommands.smx] "Altair<156><STEAM_1:0:90628109><>" toggled noclip on "Jortex<157><STEAM_1:1:636907678><>"
+L 01/30/2022 - 21:20:25: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220130.log") (Version "1.10.0.6528")
+L 01/30/2022 - 21:20:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 01/30/2022 - 21:20:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "1")
+L 01/30/2022 - 21:22:41: -------- Mapchange to c8m1_apartment --------
+L 01/30/2022 - 21:22:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 01/30/2022 - 21:22:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "1")
+L 01/30/2022 - 21:25:32: -------- Mapchange to c8m1_apartment --------
+L 01/30/2022 - 21:25:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 01/30/2022 - 21:25:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "1")
+L 01/30/2022 - 21:30:03: -------- Mapchange to c1m2_streets --------
+L 01/30/2022 - 21:30:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 01/30/2022 - 21:30:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "1")
+L 01/30/2022 - 21:31:11: [funcommands.smx] "Altair<37><STEAM_1:0:90628109><>" toggled noclip on "Altair<37><STEAM_1:0:90628109><>"
+L 01/30/2022 - 21:31:16: [funcommands.smx] "Altair<37><STEAM_1:0:90628109><>" toggled noclip on "Altair<37><STEAM_1:0:90628109><>"
+L 01/30/2022 - 21:32:54: [funcommands.smx] "Altair<37><STEAM_1:0:90628109><>" toggled noclip on "Altair<37><STEAM_1:0:90628109><>"
+L 01/30/2022 - 21:33:25: [funcommands.smx] "Altair<37><STEAM_1:0:90628109><>" toggled noclip on "Altair<37><STEAM_1:0:90628109><>"
+L 01/30/2022 - 21:33:32: [funcommands.smx] "Altair<37><STEAM_1:0:90628109><>" toggled noclip on "Altair<37><STEAM_1:0:90628109><>"
+L 01/30/2022 - 21:33:34: [funcommands.smx] "Altair<37><STEAM_1:0:90628109><>" toggled noclip on "Altair<37><STEAM_1:0:90628109><>"
+L 01/30/2022 - 21:34:34: [funcommands.smx] "Altair<37><STEAM_1:0:90628109><>" toggled noclip on "Altair<37><STEAM_1:0:90628109><>"
+L 01/30/2022 - 21:34:54: [funcommands.smx] "Altair<37><STEAM_1:0:90628109><>" toggled noclip on "Altair<37><STEAM_1:0:90628109><>"
+L 01/30/2022 - 21:34:59: [funcommands.smx] "Altair<37><STEAM_1:0:90628109><>" toggled noclip on "Altair<37><STEAM_1:0:90628109><>"
+L 01/30/2022 - 21:35:09: [funcommands.smx] "Altair<37><STEAM_1:0:90628109><>" toggled noclip on "Altair<37><STEAM_1:0:90628109><>"
+L 01/30/2022 - 21:35:11: [funcommands.smx] "Altair<37><STEAM_1:0:90628109><>" toggled noclip on "Altair<37><STEAM_1:0:90628109><>"
+L 01/30/2022 - 21:36:10: [funcommands.smx] "Altair<37><STEAM_1:0:90628109><>" toggled noclip on "Altair<37><STEAM_1:0:90628109><>"
+L 01/30/2022 - 21:36:21: [funcommands.smx] "Altair<37><STEAM_1:0:90628109><>" toggled noclip on "Altair<37><STEAM_1:0:90628109><>"
+L 01/30/2022 - 21:37:11: [funcommands.smx] "Altair<37><STEAM_1:0:90628109><>" toggled noclip on "Altair<37><STEAM_1:0:90628109><>"
+L 01/30/2022 - 21:37:13: [funcommands.smx] "Altair<37><STEAM_1:0:90628109><>" toggled noclip on "Altair<37><STEAM_1:0:90628109><>"
+L 01/30/2022 - 21:37:14: [funcommands.smx] "Altair<37><STEAM_1:0:90628109><>" toggled noclip on "Altair<37><STEAM_1:0:90628109><>"
+L 01/30/2022 - 21:37:19: [funcommands.smx] "Altair<37><STEAM_1:0:90628109><>" toggled noclip on "Altair<37><STEAM_1:0:90628109><>"
+L 01/30/2022 - 21:37:33: [funcommands.smx] "Altair<37><STEAM_1:0:90628109><>" toggled noclip on "Nick<38><BOT><>"
+L 01/30/2022 - 21:37:34: [funcommands.smx] "Altair<37><STEAM_1:0:90628109><>" toggled noclip on "Nick<38><BOT><>"
+L 01/30/2022 - 21:39:37: [funcommands.smx] "Altair<37><STEAM_1:0:90628109><>" toggled noclip on "Altair<37><STEAM_1:0:90628109><>"
+L 01/30/2022 - 21:39:54: [funcommands.smx] "Altair<37><STEAM_1:0:90628109><>" toggled noclip on "Altair<37><STEAM_1:0:90628109><>"
+L 01/30/2022 - 21:39:55: [funcommands.smx] "Altair<37><STEAM_1:0:90628109><>" toggled noclip on "Altair<37><STEAM_1:0:90628109><>"
+L 01/30/2022 - 21:40:02: [funcommands.smx] "Altair<37><STEAM_1:0:90628109><>" toggled noclip on "Altair<37><STEAM_1:0:90628109><>"
+L 01/30/2022 - 21:40:12: [funcommands.smx] "Altair<37><STEAM_1:0:90628109><>" toggled noclip on "Altair<37><STEAM_1:0:90628109><>"
+L 01/30/2022 - 21:45:37: [funcommands.smx] "Altair<37><STEAM_1:0:90628109><>" toggled noclip on "Altair<37><STEAM_1:0:90628109><>"
+L 01/30/2022 - 21:45:40: [funcommands.smx] "Altair<37><STEAM_1:0:90628109><>" toggled noclip on "(1)Smoker<211><BOT><>"
+L 01/30/2022 - 21:45:41: [funcommands.smx] "Altair<37><STEAM_1:0:90628109><>" toggled noclip on "(1)Smoker<211><BOT><>"
+L 01/30/2022 - 21:49:23: -------- Mapchange to c2m5_concert --------
+L 01/30/2022 - 21:49:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 01/30/2022 - 21:49:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "1")
+L 01/30/2022 - 21:50:42: [funcommands.smx] "Altair<233><STEAM_1:0:90628109><>" toggled noclip on "Altair<233><STEAM_1:0:90628109><>"
+L 01/30/2022 - 21:52:56: [funcommands.smx] "Altair<233><STEAM_1:0:90628109><>" toggled noclip on "Altair<233><STEAM_1:0:90628109><>"
+L 01/30/2022 - 21:52:58: [funcommands.smx] "Altair<233><STEAM_1:0:90628109><>" toggled noclip on "Altair<233><STEAM_1:0:90628109><>"
+L 01/30/2022 - 22:03:15: -------- Mapchange to c2m1_highway --------
+L 01/30/2022 - 22:03:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 01/30/2022 - 22:03:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "1")
+L 01/30/2022 - 22:06:38: [basecommands.smx] "Altair<381><STEAM_1:0:90628109><>" kicked "23Savage<387><STEAM_1:1:189137503><>" (reason "")
+L 01/30/2022 - 22:06:40: [basecommands.smx] "Altair<381><STEAM_1:0:90628109><>" kicked "ⱫΣӨ<395><STEAM_1:1:589199076><>" (reason "")
+L 01/30/2022 - 22:06:42: [basecommands.smx] "Altair<381><STEAM_1:0:90628109><>" kicked "ZeeTaa<385><STEAM_1:0:214016253><>" (reason "")
+L 01/30/2022 - 22:07:40: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220130.log") (Version "1.10.0.6528")
+L 01/30/2022 - 22:07:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 01/30/2022 - 22:07:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "1")
+L 01/30/2022 - 22:07:52: -------- Mapchange to c2m1_highway --------
+L 01/30/2022 - 22:07:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 01/30/2022 - 22:07:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "1")
+L 01/30/2022 - 22:26:08: -------- Mapchange to c2m2_fairgrounds --------
+L 01/30/2022 - 22:26:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 01/30/2022 - 22:26:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "1")
+L 01/30/2022 - 22:48:04: -------- Mapchange to c2m3_coaster --------
+L 01/30/2022 - 22:48:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 01/30/2022 - 22:48:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "1")
+L 01/30/2022 - 23:08:09: -------- Mapchange to c2m4_barns --------
+L 01/30/2022 - 23:08:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 01/30/2022 - 23:08:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "1")
+L 01/30/2022 - 23:33:45: -------- Mapchange to c2m5_concert --------
+L 01/30/2022 - 23:33:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 01/30/2022 - 23:33:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "1")
+L 01/30/2022 - 23:52:54: -------- Mapchange to c2m1_highway --------
+L 01/30/2022 - 23:52:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 01/30/2022 - 23:52:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "1")

@@ -1,0 +1,66 @@
+L 02/10/2022 - 00:27:37: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220210.log") (Version "1.10.0.6528")
+L 02/10/2022 - 00:27:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/10/2022 - 00:27:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/10/2022 - 00:27:44: -------- Mapchange to c2m5_concert --------
+L 02/10/2022 - 00:27:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/10/2022 - 00:27:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/10/2022 - 00:29:23: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220210.log") (Version "1.10.0.6528")
+L 02/10/2022 - 00:29:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/10/2022 - 00:29:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/10/2022 - 00:29:25: -------- Mapchange to c11m1_greenhouse --------
+L 02/10/2022 - 00:29:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/10/2022 - 00:29:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/10/2022 - 00:37:13: [basecommands.smx] "Altair<5><STEAM_1:0:90628109><>" changed map to "c2m1_highway"
+L 02/10/2022 - 00:37:16: [SM] Changed map to "c2m1_highway"
+L 02/10/2022 - 00:37:19: -------- Mapchange to c2m1_highway --------
+L 02/10/2022 - 00:37:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/10/2022 - 00:37:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/10/2022 - 01:04:25: -------- Mapchange to c8m1_apartment --------
+L 02/10/2022 - 01:04:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/10/2022 - 01:04:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/10/2022 - 01:14:00: -------- Mapchange to c8m2_subway --------
+L 02/10/2022 - 01:14:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/10/2022 - 01:14:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/10/2022 - 01:27:19: -------- Mapchange to c8m3_sewers --------
+L 02/10/2022 - 01:27:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/10/2022 - 01:27:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/10/2022 - 01:43:27: -------- Mapchange to c8m4_interior --------
+L 02/10/2022 - 01:43:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/10/2022 - 01:43:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/10/2022 - 01:56:41: -------- Mapchange to c8m5_rooftop --------
+L 02/10/2022 - 01:56:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/10/2022 - 01:56:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/10/2022 - 02:58:20: -------- Mapchange to c11m1_greenhouse --------
+L 02/10/2022 - 02:58:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/10/2022 - 02:58:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/10/2022 - 03:09:53: -------- Mapchange to c11m2_offices --------
+L 02/10/2022 - 03:09:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/10/2022 - 03:09:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/10/2022 - 03:29:46: -------- Mapchange to c11m3_garage --------
+L 02/10/2022 - 03:29:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/10/2022 - 03:29:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/10/2022 - 03:43:50: -------- Mapchange to c11m4_terminal --------
+L 02/10/2022 - 03:43:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/10/2022 - 03:43:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/10/2022 - 04:02:40: -------- Mapchange to c11m5_runway --------
+L 02/10/2022 - 04:02:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/10/2022 - 04:02:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/10/2022 - 23:10:21: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220210.log") (Version "1.10.0.6528")
+L 02/10/2022 - 23:10:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/10/2022 - 23:10:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/10/2022 - 23:11:00: -------- Mapchange to c8m1_apartment --------
+L 02/10/2022 - 23:11:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/10/2022 - 23:11:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/10/2022 - 23:19:41: -------- Mapchange to c8m2_subway --------
+L 02/10/2022 - 23:19:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/10/2022 - 23:19:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/10/2022 - 23:32:56: -------- Mapchange to c8m3_sewers --------
+L 02/10/2022 - 23:32:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/10/2022 - 23:32:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/10/2022 - 23:34:49: -------- Mapchange to c8m3_sewers --------
+L 02/10/2022 - 23:34:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/10/2022 - 23:34:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/10/2022 - 23:57:11: -------- Mapchange to c8m4_interior --------
+L 02/10/2022 - 23:57:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 02/10/2022 - 23:57:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 02/11/2022 - 00:14:30: Log file closed.

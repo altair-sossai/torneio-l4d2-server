@@ -1,0 +1,70 @@
+L 03/12/2022 - 00:06:13: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220312.log") (Version "1.10.0.6528")
+L 03/12/2022 - 00:06:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 03/12/2022 - 00:06:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 03/12/2022 - 00:06:45: -------- Mapchange to c8m1_apartment --------
+L 03/12/2022 - 00:06:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 03/12/2022 - 00:06:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 03/12/2022 - 00:11:01: [basecommands.smx] "Altair<4><STEAM_1:0:90628109><>" kicked "[ Mew ]<10><STEAM_1:1:159252458><>" (reason "")
+L 03/12/2022 - 00:12:29: -------- Mapchange to c8m1_apartment --------
+L 03/12/2022 - 00:12:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 03/12/2022 - 00:12:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 03/12/2022 - 00:22:18: -------- Mapchange to c8m2_subway --------
+L 03/12/2022 - 00:22:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 03/12/2022 - 00:22:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 03/12/2022 - 00:39:33: -------- Mapchange to c8m3_sewers --------
+L 03/12/2022 - 00:39:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 03/12/2022 - 00:39:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 03/12/2022 - 01:05:47: -------- Mapchange to c8m4_interior --------
+L 03/12/2022 - 01:05:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 03/12/2022 - 01:05:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 03/12/2022 - 01:22:09: -------- Mapchange to c8m5_rooftop --------
+L 03/12/2022 - 01:22:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 03/12/2022 - 01:22:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 03/12/2022 - 01:25:13: [basebans.smx] "Miguel<32><STEAM_1:1:452964136><>" banned "hard<54><STEAM_1:1:598701106><>" (minutes "0") (reason "Speedhacking")
+L 03/12/2022 - 01:43:12: -------- Mapchange to c8m1_apartment --------
+L 03/12/2022 - 01:43:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 03/12/2022 - 01:43:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 03/12/2022 - 21:00:56: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220312.log") (Version "1.10.0.6528")
+L 03/12/2022 - 21:00:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 03/12/2022 - 21:00:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 03/12/2022 - 21:02:12: -------- Mapchange to c6m1_riverbank --------
+L 03/12/2022 - 21:02:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 03/12/2022 - 21:02:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 03/12/2022 - 21:10:36: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220312.log") (Version "1.10.0.6528")
+L 03/12/2022 - 21:10:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 03/12/2022 - 21:10:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 03/12/2022 - 21:10:41: -------- Mapchange to l4d2_tank_challenge --------
+L 03/12/2022 - 21:10:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 03/12/2022 - 21:10:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 03/12/2022 - 21:14:15: [playercommands.smx] "Altair<4><STEAM_1:0:90628109><>" slayed "Altair<4><STEAM_1:0:90628109><>"
+L 03/12/2022 - 21:14:23: [playercommands.smx] "Altair<4><STEAM_1:0:90628109><>" slayed "Louis<5><BOT><>"
+L 03/12/2022 - 21:14:25: [playercommands.smx] "Altair<4><STEAM_1:0:90628109><>" slayed "Zoey<6><BOT><>"
+L 03/12/2022 - 21:14:26: [playercommands.smx] "Altair<4><STEAM_1:0:90628109><>" slayed "Tank<8><BOT><>"
+L 03/12/2022 - 21:14:45: [playercommands.smx] "Altair<4><STEAM_1:0:90628109><>" slayed "Tank<9><BOT><>"
+L 03/12/2022 - 21:14:49: [playercommands.smx] "Altair<4><STEAM_1:0:90628109><>" slayed "(1)Tank<10><BOT><>"
+L 03/12/2022 - 21:15:04: [funcommands.smx] "Altair<4><STEAM_1:0:90628109><>" ignited "Altair<4><STEAM_1:0:90628109><>" (seconds "20.000000")
+L 03/12/2022 - 21:15:10: [playercommands.smx] "Altair<4><STEAM_1:0:90628109><>" slayed "Tank<11><BOT><>"
+L 03/12/2022 - 21:15:15: [playercommands.smx] "Altair<4><STEAM_1:0:90628109><>" slayed "(1)Tank<12><BOT><>"
+L 03/12/2022 - 21:15:28: [funcommands.smx] "Altair<4><STEAM_1:0:90628109><>" set a FreezeBomb on "Tank<13><BOT><>"
+L 03/12/2022 - 21:16:19: [funcommands.smx] "Altair<4><STEAM_1:0:90628109><>" drugged "Altair<4><STEAM_1:0:90628109><>"
+L 03/12/2022 - 21:16:24: [funcommands.smx] "Altair<4><STEAM_1:0:90628109><>" undrugged "Altair<4><STEAM_1:0:90628109><>"
+L 03/12/2022 - 21:17:23: [playercommands.smx] "Altair<4><STEAM_1:0:90628109><>" slayed "Altair<4><STEAM_1:0:90628109><>"
+L 03/12/2022 - 21:17:25: [playercommands.smx] "Altair<4><STEAM_1:0:90628109><>" slayed "Bill<7><BOT><>"
+L 03/12/2022 - 21:17:25: [playercommands.smx] "Altair<4><STEAM_1:0:90628109><>" slayed "(3)Tank<17><BOT><>"
+L 03/12/2022 - 21:21:12: [playercommands.smx] "Altair<4><STEAM_1:0:90628109><>" slayed "Tank<27><BOT><>"
+L 03/12/2022 - 21:21:13: [playercommands.smx] "Altair<4><STEAM_1:0:90628109><>" slayed "(1)Tank<28><BOT><>"
+L 03/12/2022 - 21:21:14: [playercommands.smx] "Altair<4><STEAM_1:0:90628109><>" slayed "(2)Tank<29><BOT><>"
+L 03/12/2022 - 21:21:39: [playercommands.smx] "Altair<4><STEAM_1:0:90628109><>" slayed "Tank<31><BOT><>"
+L 03/12/2022 - 21:21:46: [playercommands.smx] "Altair<4><STEAM_1:0:90628109><>" slayed "(1)Tank<32><BOT><>"
+L 03/12/2022 - 21:21:56: [playercommands.smx] "Altair<4><STEAM_1:0:90628109><>" slayed "Tank<33><BOT><>"
+L 03/12/2022 - 21:22:03: [playercommands.smx] "Altair<4><STEAM_1:0:90628109><>" slayed "(1)Tank<34><BOT><>"
+L 03/12/2022 - 21:23:13: [playercommands.smx] "Altair<4><STEAM_1:0:90628109><>" slayed "Tank<35><BOT><>"
+L 03/12/2022 - 21:23:14: [playercommands.smx] "Altair<4><STEAM_1:0:90628109><>" slayed "(1)Tank<36><BOT><>"
+L 03/12/2022 - 21:23:15: [playercommands.smx] "Altair<4><STEAM_1:0:90628109><>" slayed "(2)Tank<37><BOT><>"
+L 03/12/2022 - 21:23:16: [playercommands.smx] "Altair<4><STEAM_1:0:90628109><>" slayed "(3)Tank<38><BOT><>"
+L 03/12/2022 - 21:23:17: [playercommands.smx] "Altair<4><STEAM_1:0:90628109><>" slayed "(4)Tank<39><BOT><>"
+L 03/12/2022 - 21:24:14: [playercommands.smx] "Altair<4><STEAM_1:0:90628109><>" slayed "Tank<43><BOT><>"
+L 03/12/2022 - 21:24:16: [playercommands.smx] "Altair<4><STEAM_1:0:90628109><>" slayed "(1)Tank<41><BOT><>"
+L 03/12/2022 - 21:30:37: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220312.log") (Version "1.10.0.6528")
+L 03/12/2022 - 21:30:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 03/12/2022 - 21:30:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")

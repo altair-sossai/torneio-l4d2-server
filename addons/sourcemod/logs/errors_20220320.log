@@ -1,0 +1,12 @@
+L 03/20/2022 - 18:09:49: SourceMod error session started
+L 03/20/2022 - 18:09:49: Info (map "c1m1_hotel") (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/errors_20220320.log")
+L 03/20/2022 - 18:09:49: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 03/20/2022 - 18:09:49: [SM] Unrecognized library "matchmaking_ds" (gameconf "/home/steam/l4d2/left4dead2/addons/sourcemod/gamedata/l4dslots.txt")
+L 03/20/2022 - 18:09:54: [l4dslots.smx] sv_maxplayers MS init error
+L 03/20/2022 - 18:10:12: Error log file session closed.
+L 03/20/2022 - 19:54:30: SourceMod error session started
+L 03/20/2022 - 19:54:30: Info (map "c1m1_hotel") (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/errors_20220320.log")
+L 03/20/2022 - 19:54:30: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 03/20/2022 - 19:54:30: [SM] Unrecognized library "matchmaking_ds" (gameconf "/home/steam/l4d2/left4dead2/addons/sourcemod/gamedata/l4dslots.txt")
+L 03/20/2022 - 19:54:31: [l4dslots.smx] sv_maxplayers MS init error
+L 03/20/2022 - 19:54:35: Error log file session closed.

@@ -1,0 +1,807 @@
+L 05/05/2022 - 00:05:23: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220505.log") (Version "1.10.0.6528")
+L 05/05/2022 - 00:05:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "100000")
+L 05/05/2022 - 00:05:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 00:05:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 00:05:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 00:05:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "10sm_cvar")
+L 05/05/2022 - 00:05:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 00:05:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "100")
+L 05/05/2022 - 00:05:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "100")
+L 05/05/2022 - 00:05:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 00:05:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 00:05:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 05/05/2022 - 00:05:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 05/05/2022 - 00:05:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.014")
+L 05/05/2022 - 00:05:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_splitpacket_maxrate") (value "50000")
+L 05/05/2022 - 00:05:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "0")
+L 05/05/2022 - 00:05:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tick_door_speed") (value "1.30")
+L 05/05/2022 - 00:05:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/05/2022 - 00:05:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 05/05/2022 - 02:16:39: -------- Mapchange to c1m1_hotel --------
+L 05/05/2022 - 02:17:23: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220505.log") (Version "1.10.0.6528")
+L 05/05/2022 - 02:17:23: [rcon_lock.smx] 28 cheat commands
+L 05/05/2022 - 02:17:23: [rcon_lock.smx] Couldn't find ai_test_los (this may be normal)
+L 05/05/2022 - 02:17:23: [rcon_lock.smx] Flagging dbghist_dump as cheat
+L 05/05/2022 - 02:17:23: [rcon_lock.smx] dump_entity_sizes already has cheats flag
+L 05/05/2022 - 02:17:23: [rcon_lock.smx] Flagging dump_globals as cheat
+L 05/05/2022 - 02:17:23: [rcon_lock.smx] Couldn't find dump_terrain (this may be normal)
+L 05/05/2022 - 02:17:23: [rcon_lock.smx] Couldn't find dumpcountedstrings (this may be normal)
+L 05/05/2022 - 02:17:23: [rcon_lock.smx] dumpentityfactories already has cheats flag
+L 05/05/2022 - 02:17:23: [rcon_lock.smx] Flagging dumpeventqueue as cheat
+L 05/05/2022 - 02:17:23: [rcon_lock.smx] Couldn't find es_version (this may be normal)
+L 05/05/2022 - 02:17:23: [rcon_lock.smx] groundlist already has cheats flag
+L 05/05/2022 - 02:17:23: [rcon_lock.smx] Flagging listmodels as cheat
+L 05/05/2022 - 02:17:23: [rcon_lock.smx] Flagging mem_dump as cheat
+L 05/05/2022 - 02:17:23: [rcon_lock.smx] Couldn't find mp_dump_timers (this may be normal)
+L 05/05/2022 - 02:17:23: [rcon_lock.smx] Couldn't find npc_ammo_deplete (this may be normal)
+L 05/05/2022 - 02:17:23: [rcon_lock.smx] Couldn't find npc_heal (this may be normal)
+L 05/05/2022 - 02:17:23: [rcon_lock.smx] Couldn't find npc_speakall (this may be normal)
+L 05/05/2022 - 02:17:23: [rcon_lock.smx] Couldn't find npc_thinknow (this may be normal)
+L 05/05/2022 - 02:17:23: [rcon_lock.smx] Flagging physics_budget as cheat
+L 05/05/2022 - 02:17:23: [rcon_lock.smx] Flagging physics_debug_entity as cheat
+L 05/05/2022 - 02:17:23: [rcon_lock.smx] Flagging physics_report_active as cheat
+L 05/05/2022 - 02:17:23: [rcon_lock.smx] Flagging physics_select as cheat
+L 05/05/2022 - 02:17:23: [rcon_lock.smx] report_entities already has cheats flag
+L 05/05/2022 - 02:17:23: [rcon_lock.smx] report_touchlinks already has cheats flag
+L 05/05/2022 - 02:17:23: [rcon_lock.smx] Couldn't find snd_digital_surround (this may be normal)
+L 05/05/2022 - 02:17:23: [rcon_lock.smx] Flagging snd_restart as cheat
+L 05/05/2022 - 02:17:23: [rcon_lock.smx] Couldn't find soundlist (this may be normal)
+L 05/05/2022 - 02:17:23: [rcon_lock.smx] Flagging soundscape_flush as cheat
+L 05/05/2022 - 02:17:23: [rcon_lock.smx] Couldn't find wc_update_entity (this may be normal)
+L 05/05/2022 - 02:17:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "100000")
+L 05/05/2022 - 02:17:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 02:17:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 02:17:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 02:17:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "10sm_cvar")
+L 05/05/2022 - 02:17:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 02:17:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "100")
+L 05/05/2022 - 02:17:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "100")
+L 05/05/2022 - 02:17:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 02:17:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 02:17:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 05/05/2022 - 02:17:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 05/05/2022 - 02:17:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.014")
+L 05/05/2022 - 02:17:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_splitpacket_maxrate") (value "50000")
+L 05/05/2022 - 02:17:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "0")
+L 05/05/2022 - 02:17:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tick_door_speed") (value "1.30")
+L 05/05/2022 - 02:17:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/05/2022 - 02:17:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 05/05/2022 - 02:43:36: -------- Mapchange to l4d2_tank_challenge --------
+L 05/05/2022 - 02:43:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "100000")
+L 05/05/2022 - 02:43:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 02:43:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 02:43:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 02:43:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "10sm_cvar")
+L 05/05/2022 - 02:43:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 02:43:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "100")
+L 05/05/2022 - 02:43:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "100")
+L 05/05/2022 - 02:43:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 02:43:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 02:43:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 05/05/2022 - 02:43:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 05/05/2022 - 02:43:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.014")
+L 05/05/2022 - 02:43:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_splitpacket_maxrate") (value "50000")
+L 05/05/2022 - 02:43:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "0")
+L 05/05/2022 - 02:43:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tick_door_speed") (value "1.30")
+L 05/05/2022 - 02:43:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/05/2022 - 02:43:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 05/05/2022 - 02:44:27: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220505.log") (Version "1.10.0.6528")
+L 05/05/2022 - 02:44:27: [rcon_lock.smx] 28 cheat commands
+L 05/05/2022 - 02:44:27: [rcon_lock.smx] Couldn't find ai_test_los (this may be normal)
+L 05/05/2022 - 02:44:27: [rcon_lock.smx] Flagging dbghist_dump as cheat
+L 05/05/2022 - 02:44:27: [rcon_lock.smx] dump_entity_sizes already has cheats flag
+L 05/05/2022 - 02:44:27: [rcon_lock.smx] Flagging dump_globals as cheat
+L 05/05/2022 - 02:44:27: [rcon_lock.smx] Couldn't find dump_terrain (this may be normal)
+L 05/05/2022 - 02:44:27: [rcon_lock.smx] Couldn't find dumpcountedstrings (this may be normal)
+L 05/05/2022 - 02:44:27: [rcon_lock.smx] dumpentityfactories already has cheats flag
+L 05/05/2022 - 02:44:27: [rcon_lock.smx] Flagging dumpeventqueue as cheat
+L 05/05/2022 - 02:44:27: [rcon_lock.smx] Couldn't find es_version (this may be normal)
+L 05/05/2022 - 02:44:27: [rcon_lock.smx] groundlist already has cheats flag
+L 05/05/2022 - 02:44:27: [rcon_lock.smx] Flagging listmodels as cheat
+L 05/05/2022 - 02:44:27: [rcon_lock.smx] Flagging mem_dump as cheat
+L 05/05/2022 - 02:44:27: [rcon_lock.smx] Couldn't find mp_dump_timers (this may be normal)
+L 05/05/2022 - 02:44:27: [rcon_lock.smx] Couldn't find npc_ammo_deplete (this may be normal)
+L 05/05/2022 - 02:44:27: [rcon_lock.smx] Couldn't find npc_heal (this may be normal)
+L 05/05/2022 - 02:44:27: [rcon_lock.smx] Couldn't find npc_speakall (this may be normal)
+L 05/05/2022 - 02:44:27: [rcon_lock.smx] Couldn't find npc_thinknow (this may be normal)
+L 05/05/2022 - 02:44:27: [rcon_lock.smx] Flagging physics_budget as cheat
+L 05/05/2022 - 02:44:27: [rcon_lock.smx] Flagging physics_debug_entity as cheat
+L 05/05/2022 - 02:44:27: [rcon_lock.smx] Flagging physics_report_active as cheat
+L 05/05/2022 - 02:44:27: [rcon_lock.smx] Flagging physics_select as cheat
+L 05/05/2022 - 02:44:27: [rcon_lock.smx] report_entities already has cheats flag
+L 05/05/2022 - 02:44:27: [rcon_lock.smx] report_touchlinks already has cheats flag
+L 05/05/2022 - 02:44:27: [rcon_lock.smx] Couldn't find snd_digital_surround (this may be normal)
+L 05/05/2022 - 02:44:27: [rcon_lock.smx] Flagging snd_restart as cheat
+L 05/05/2022 - 02:44:27: [rcon_lock.smx] Couldn't find soundlist (this may be normal)
+L 05/05/2022 - 02:44:27: [rcon_lock.smx] Flagging soundscape_flush as cheat
+L 05/05/2022 - 02:44:27: [rcon_lock.smx] Couldn't find wc_update_entity (this may be normal)
+L 05/05/2022 - 02:44:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "100000")
+L 05/05/2022 - 02:44:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 02:44:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 02:44:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 02:44:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "10sm_cvar")
+L 05/05/2022 - 02:44:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 02:44:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "100")
+L 05/05/2022 - 02:44:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "100")
+L 05/05/2022 - 02:44:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 02:44:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 02:44:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 05/05/2022 - 02:44:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 05/05/2022 - 02:44:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.014")
+L 05/05/2022 - 02:44:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_splitpacket_maxrate") (value "50000")
+L 05/05/2022 - 02:44:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "0")
+L 05/05/2022 - 02:44:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tick_door_speed") (value "1.30")
+L 05/05/2022 - 02:44:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/05/2022 - 02:44:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 05/05/2022 - 02:45:22: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220505.log") (Version "1.10.0.6528")
+L 05/05/2022 - 02:45:22: [rcon_lock.smx] 28 cheat commands
+L 05/05/2022 - 02:45:22: [rcon_lock.smx] Couldn't find ai_test_los (this may be normal)
+L 05/05/2022 - 02:45:22: [rcon_lock.smx] Flagging dbghist_dump as cheat
+L 05/05/2022 - 02:45:22: [rcon_lock.smx] dump_entity_sizes already has cheats flag
+L 05/05/2022 - 02:45:22: [rcon_lock.smx] Flagging dump_globals as cheat
+L 05/05/2022 - 02:45:22: [rcon_lock.smx] Couldn't find dump_terrain (this may be normal)
+L 05/05/2022 - 02:45:22: [rcon_lock.smx] Couldn't find dumpcountedstrings (this may be normal)
+L 05/05/2022 - 02:45:22: [rcon_lock.smx] dumpentityfactories already has cheats flag
+L 05/05/2022 - 02:45:22: [rcon_lock.smx] Flagging dumpeventqueue as cheat
+L 05/05/2022 - 02:45:22: [rcon_lock.smx] Couldn't find es_version (this may be normal)
+L 05/05/2022 - 02:45:22: [rcon_lock.smx] groundlist already has cheats flag
+L 05/05/2022 - 02:45:22: [rcon_lock.smx] Flagging listmodels as cheat
+L 05/05/2022 - 02:45:22: [rcon_lock.smx] Flagging mem_dump as cheat
+L 05/05/2022 - 02:45:22: [rcon_lock.smx] Couldn't find mp_dump_timers (this may be normal)
+L 05/05/2022 - 02:45:22: [rcon_lock.smx] Couldn't find npc_ammo_deplete (this may be normal)
+L 05/05/2022 - 02:45:22: [rcon_lock.smx] Couldn't find npc_heal (this may be normal)
+L 05/05/2022 - 02:45:22: [rcon_lock.smx] Couldn't find npc_speakall (this may be normal)
+L 05/05/2022 - 02:45:22: [rcon_lock.smx] Couldn't find npc_thinknow (this may be normal)
+L 05/05/2022 - 02:45:22: [rcon_lock.smx] Flagging physics_budget as cheat
+L 05/05/2022 - 02:45:22: [rcon_lock.smx] Flagging physics_debug_entity as cheat
+L 05/05/2022 - 02:45:22: [rcon_lock.smx] Flagging physics_report_active as cheat
+L 05/05/2022 - 02:45:22: [rcon_lock.smx] Flagging physics_select as cheat
+L 05/05/2022 - 02:45:22: [rcon_lock.smx] report_entities already has cheats flag
+L 05/05/2022 - 02:45:22: [rcon_lock.smx] report_touchlinks already has cheats flag
+L 05/05/2022 - 02:45:22: [rcon_lock.smx] Couldn't find snd_digital_surround (this may be normal)
+L 05/05/2022 - 02:45:22: [rcon_lock.smx] Flagging snd_restart as cheat
+L 05/05/2022 - 02:45:22: [rcon_lock.smx] Couldn't find soundlist (this may be normal)
+L 05/05/2022 - 02:45:22: [rcon_lock.smx] Flagging soundscape_flush as cheat
+L 05/05/2022 - 02:45:22: [rcon_lock.smx] Couldn't find wc_update_entity (this may be normal)
+L 05/05/2022 - 02:45:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "100000")
+L 05/05/2022 - 02:45:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 02:45:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 02:45:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 02:45:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "10sm_cvar")
+L 05/05/2022 - 02:45:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 02:45:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "100")
+L 05/05/2022 - 02:45:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "100")
+L 05/05/2022 - 02:45:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 02:45:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 02:45:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 05/05/2022 - 02:45:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 05/05/2022 - 02:45:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.014")
+L 05/05/2022 - 02:45:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_splitpacket_maxrate") (value "50000")
+L 05/05/2022 - 02:45:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "0")
+L 05/05/2022 - 02:45:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tick_door_speed") (value "1.30")
+L 05/05/2022 - 02:45:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/05/2022 - 02:45:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 05/05/2022 - 02:46:17: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220505.log") (Version "1.10.0.6528")
+L 05/05/2022 - 02:46:17: [rcon_lock.smx] 28 cheat commands
+L 05/05/2022 - 02:46:17: [rcon_lock.smx] Couldn't find ai_test_los (this may be normal)
+L 05/05/2022 - 02:46:17: [rcon_lock.smx] Flagging dbghist_dump as cheat
+L 05/05/2022 - 02:46:17: [rcon_lock.smx] dump_entity_sizes already has cheats flag
+L 05/05/2022 - 02:46:17: [rcon_lock.smx] Flagging dump_globals as cheat
+L 05/05/2022 - 02:46:17: [rcon_lock.smx] Couldn't find dump_terrain (this may be normal)
+L 05/05/2022 - 02:46:17: [rcon_lock.smx] Couldn't find dumpcountedstrings (this may be normal)
+L 05/05/2022 - 02:46:17: [rcon_lock.smx] dumpentityfactories already has cheats flag
+L 05/05/2022 - 02:46:17: [rcon_lock.smx] Flagging dumpeventqueue as cheat
+L 05/05/2022 - 02:46:17: [rcon_lock.smx] Couldn't find es_version (this may be normal)
+L 05/05/2022 - 02:46:17: [rcon_lock.smx] groundlist already has cheats flag
+L 05/05/2022 - 02:46:17: [rcon_lock.smx] Flagging listmodels as cheat
+L 05/05/2022 - 02:46:17: [rcon_lock.smx] Flagging mem_dump as cheat
+L 05/05/2022 - 02:46:17: [rcon_lock.smx] Couldn't find mp_dump_timers (this may be normal)
+L 05/05/2022 - 02:46:17: [rcon_lock.smx] Couldn't find npc_ammo_deplete (this may be normal)
+L 05/05/2022 - 02:46:17: [rcon_lock.smx] Couldn't find npc_heal (this may be normal)
+L 05/05/2022 - 02:46:17: [rcon_lock.smx] Couldn't find npc_speakall (this may be normal)
+L 05/05/2022 - 02:46:17: [rcon_lock.smx] Couldn't find npc_thinknow (this may be normal)
+L 05/05/2022 - 02:46:17: [rcon_lock.smx] Flagging physics_budget as cheat
+L 05/05/2022 - 02:46:17: [rcon_lock.smx] Flagging physics_debug_entity as cheat
+L 05/05/2022 - 02:46:17: [rcon_lock.smx] Flagging physics_report_active as cheat
+L 05/05/2022 - 02:46:17: [rcon_lock.smx] Flagging physics_select as cheat
+L 05/05/2022 - 02:46:17: [rcon_lock.smx] report_entities already has cheats flag
+L 05/05/2022 - 02:46:17: [rcon_lock.smx] report_touchlinks already has cheats flag
+L 05/05/2022 - 02:46:17: [rcon_lock.smx] Couldn't find snd_digital_surround (this may be normal)
+L 05/05/2022 - 02:46:18: [rcon_lock.smx] Flagging snd_restart as cheat
+L 05/05/2022 - 02:46:18: [rcon_lock.smx] Couldn't find soundlist (this may be normal)
+L 05/05/2022 - 02:46:18: [rcon_lock.smx] Flagging soundscape_flush as cheat
+L 05/05/2022 - 02:46:18: [rcon_lock.smx] Couldn't find wc_update_entity (this may be normal)
+L 05/05/2022 - 02:46:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "100000")
+L 05/05/2022 - 02:46:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 02:46:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 02:46:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 02:46:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "10sm_cvar")
+L 05/05/2022 - 02:46:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 02:46:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "100")
+L 05/05/2022 - 02:46:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "100")
+L 05/05/2022 - 02:46:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 02:46:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 02:46:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 05/05/2022 - 02:46:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 05/05/2022 - 02:46:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.014")
+L 05/05/2022 - 02:46:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_splitpacket_maxrate") (value "50000")
+L 05/05/2022 - 02:46:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "0")
+L 05/05/2022 - 02:46:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tick_door_speed") (value "1.30")
+L 05/05/2022 - 02:46:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/05/2022 - 02:46:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 05/05/2022 - 02:47:13: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220505.log") (Version "1.10.0.6528")
+L 05/05/2022 - 02:47:13: [rcon_lock.smx] 28 cheat commands
+L 05/05/2022 - 02:47:13: [rcon_lock.smx] Couldn't find ai_test_los (this may be normal)
+L 05/05/2022 - 02:47:13: [rcon_lock.smx] Flagging dbghist_dump as cheat
+L 05/05/2022 - 02:47:13: [rcon_lock.smx] dump_entity_sizes already has cheats flag
+L 05/05/2022 - 02:47:13: [rcon_lock.smx] Flagging dump_globals as cheat
+L 05/05/2022 - 02:47:13: [rcon_lock.smx] Couldn't find dump_terrain (this may be normal)
+L 05/05/2022 - 02:47:13: [rcon_lock.smx] Couldn't find dumpcountedstrings (this may be normal)
+L 05/05/2022 - 02:47:13: [rcon_lock.smx] dumpentityfactories already has cheats flag
+L 05/05/2022 - 02:47:13: [rcon_lock.smx] Flagging dumpeventqueue as cheat
+L 05/05/2022 - 02:47:13: [rcon_lock.smx] Couldn't find es_version (this may be normal)
+L 05/05/2022 - 02:47:13: [rcon_lock.smx] groundlist already has cheats flag
+L 05/05/2022 - 02:47:13: [rcon_lock.smx] Flagging listmodels as cheat
+L 05/05/2022 - 02:47:13: [rcon_lock.smx] Flagging mem_dump as cheat
+L 05/05/2022 - 02:47:13: [rcon_lock.smx] Couldn't find mp_dump_timers (this may be normal)
+L 05/05/2022 - 02:47:13: [rcon_lock.smx] Couldn't find npc_ammo_deplete (this may be normal)
+L 05/05/2022 - 02:47:13: [rcon_lock.smx] Couldn't find npc_heal (this may be normal)
+L 05/05/2022 - 02:47:13: [rcon_lock.smx] Couldn't find npc_speakall (this may be normal)
+L 05/05/2022 - 02:47:13: [rcon_lock.smx] Couldn't find npc_thinknow (this may be normal)
+L 05/05/2022 - 02:47:13: [rcon_lock.smx] Flagging physics_budget as cheat
+L 05/05/2022 - 02:47:13: [rcon_lock.smx] Flagging physics_debug_entity as cheat
+L 05/05/2022 - 02:47:13: [rcon_lock.smx] Flagging physics_report_active as cheat
+L 05/05/2022 - 02:47:13: [rcon_lock.smx] Flagging physics_select as cheat
+L 05/05/2022 - 02:47:13: [rcon_lock.smx] report_entities already has cheats flag
+L 05/05/2022 - 02:47:13: [rcon_lock.smx] report_touchlinks already has cheats flag
+L 05/05/2022 - 02:47:13: [rcon_lock.smx] Couldn't find snd_digital_surround (this may be normal)
+L 05/05/2022 - 02:47:13: [rcon_lock.smx] Flagging snd_restart as cheat
+L 05/05/2022 - 02:47:13: [rcon_lock.smx] Couldn't find soundlist (this may be normal)
+L 05/05/2022 - 02:47:13: [rcon_lock.smx] Flagging soundscape_flush as cheat
+L 05/05/2022 - 02:47:13: [rcon_lock.smx] Couldn't find wc_update_entity (this may be normal)
+L 05/05/2022 - 02:47:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "100000")
+L 05/05/2022 - 02:47:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 02:47:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 02:47:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 02:47:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "10sm_cvar")
+L 05/05/2022 - 02:47:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 02:47:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "100")
+L 05/05/2022 - 02:47:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "100")
+L 05/05/2022 - 02:47:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 02:47:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 02:47:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 05/05/2022 - 02:47:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 05/05/2022 - 02:47:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.014")
+L 05/05/2022 - 02:47:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_splitpacket_maxrate") (value "50000")
+L 05/05/2022 - 02:47:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "0")
+L 05/05/2022 - 02:47:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tick_door_speed") (value "1.30")
+L 05/05/2022 - 02:47:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/05/2022 - 02:47:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 05/05/2022 - 02:48:08: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220505.log") (Version "1.10.0.6528")
+L 05/05/2022 - 02:48:08: [rcon_lock.smx] 28 cheat commands
+L 05/05/2022 - 02:48:08: [rcon_lock.smx] Couldn't find ai_test_los (this may be normal)
+L 05/05/2022 - 02:48:08: [rcon_lock.smx] Flagging dbghist_dump as cheat
+L 05/05/2022 - 02:48:08: [rcon_lock.smx] dump_entity_sizes already has cheats flag
+L 05/05/2022 - 02:48:08: [rcon_lock.smx] Flagging dump_globals as cheat
+L 05/05/2022 - 02:48:08: [rcon_lock.smx] Couldn't find dump_terrain (this may be normal)
+L 05/05/2022 - 02:48:08: [rcon_lock.smx] Couldn't find dumpcountedstrings (this may be normal)
+L 05/05/2022 - 02:48:08: [rcon_lock.smx] dumpentityfactories already has cheats flag
+L 05/05/2022 - 02:48:08: [rcon_lock.smx] Flagging dumpeventqueue as cheat
+L 05/05/2022 - 02:48:08: [rcon_lock.smx] Couldn't find es_version (this may be normal)
+L 05/05/2022 - 02:48:08: [rcon_lock.smx] groundlist already has cheats flag
+L 05/05/2022 - 02:48:08: [rcon_lock.smx] Flagging listmodels as cheat
+L 05/05/2022 - 02:48:08: [rcon_lock.smx] Flagging mem_dump as cheat
+L 05/05/2022 - 02:48:08: [rcon_lock.smx] Couldn't find mp_dump_timers (this may be normal)
+L 05/05/2022 - 02:48:08: [rcon_lock.smx] Couldn't find npc_ammo_deplete (this may be normal)
+L 05/05/2022 - 02:48:08: [rcon_lock.smx] Couldn't find npc_heal (this may be normal)
+L 05/05/2022 - 02:48:08: [rcon_lock.smx] Couldn't find npc_speakall (this may be normal)
+L 05/05/2022 - 02:48:08: [rcon_lock.smx] Couldn't find npc_thinknow (this may be normal)
+L 05/05/2022 - 02:48:08: [rcon_lock.smx] Flagging physics_budget as cheat
+L 05/05/2022 - 02:48:08: [rcon_lock.smx] Flagging physics_debug_entity as cheat
+L 05/05/2022 - 02:48:08: [rcon_lock.smx] Flagging physics_report_active as cheat
+L 05/05/2022 - 02:48:08: [rcon_lock.smx] Flagging physics_select as cheat
+L 05/05/2022 - 02:48:08: [rcon_lock.smx] report_entities already has cheats flag
+L 05/05/2022 - 02:48:08: [rcon_lock.smx] report_touchlinks already has cheats flag
+L 05/05/2022 - 02:48:08: [rcon_lock.smx] Couldn't find snd_digital_surround (this may be normal)
+L 05/05/2022 - 02:48:08: [rcon_lock.smx] Flagging snd_restart as cheat
+L 05/05/2022 - 02:48:08: [rcon_lock.smx] Couldn't find soundlist (this may be normal)
+L 05/05/2022 - 02:48:08: [rcon_lock.smx] Flagging soundscape_flush as cheat
+L 05/05/2022 - 02:48:08: [rcon_lock.smx] Couldn't find wc_update_entity (this may be normal)
+L 05/05/2022 - 02:48:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "100000")
+L 05/05/2022 - 02:48:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 02:48:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 02:48:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 02:48:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "10sm_cvar")
+L 05/05/2022 - 02:48:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 02:48:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "100")
+L 05/05/2022 - 02:48:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "100")
+L 05/05/2022 - 02:48:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 02:48:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 02:48:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 05/05/2022 - 02:48:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 05/05/2022 - 02:48:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.014")
+L 05/05/2022 - 02:48:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_splitpacket_maxrate") (value "50000")
+L 05/05/2022 - 02:48:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "0")
+L 05/05/2022 - 02:48:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tick_door_speed") (value "1.30")
+L 05/05/2022 - 02:48:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/05/2022 - 02:48:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 05/05/2022 - 02:49:01: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220505.log") (Version "1.10.0.6528")
+L 05/05/2022 - 02:49:01: [rcon_lock.smx] 28 cheat commands
+L 05/05/2022 - 02:49:01: [rcon_lock.smx] Couldn't find ai_test_los (this may be normal)
+L 05/05/2022 - 02:49:01: [rcon_lock.smx] Flagging dbghist_dump as cheat
+L 05/05/2022 - 02:49:01: [rcon_lock.smx] dump_entity_sizes already has cheats flag
+L 05/05/2022 - 02:49:01: [rcon_lock.smx] Flagging dump_globals as cheat
+L 05/05/2022 - 02:49:01: [rcon_lock.smx] Couldn't find dump_terrain (this may be normal)
+L 05/05/2022 - 02:49:01: [rcon_lock.smx] Couldn't find dumpcountedstrings (this may be normal)
+L 05/05/2022 - 02:49:01: [rcon_lock.smx] dumpentityfactories already has cheats flag
+L 05/05/2022 - 02:49:01: [rcon_lock.smx] Flagging dumpeventqueue as cheat
+L 05/05/2022 - 02:49:01: [rcon_lock.smx] Couldn't find es_version (this may be normal)
+L 05/05/2022 - 02:49:01: [rcon_lock.smx] groundlist already has cheats flag
+L 05/05/2022 - 02:49:01: [rcon_lock.smx] Flagging listmodels as cheat
+L 05/05/2022 - 02:49:01: [rcon_lock.smx] Flagging mem_dump as cheat
+L 05/05/2022 - 02:49:01: [rcon_lock.smx] Couldn't find mp_dump_timers (this may be normal)
+L 05/05/2022 - 02:49:01: [rcon_lock.smx] Couldn't find npc_ammo_deplete (this may be normal)
+L 05/05/2022 - 02:49:01: [rcon_lock.smx] Couldn't find npc_heal (this may be normal)
+L 05/05/2022 - 02:49:01: [rcon_lock.smx] Couldn't find npc_speakall (this may be normal)
+L 05/05/2022 - 02:49:01: [rcon_lock.smx] Couldn't find npc_thinknow (this may be normal)
+L 05/05/2022 - 02:49:01: [rcon_lock.smx] Flagging physics_budget as cheat
+L 05/05/2022 - 02:49:01: [rcon_lock.smx] Flagging physics_debug_entity as cheat
+L 05/05/2022 - 02:49:01: [rcon_lock.smx] Flagging physics_report_active as cheat
+L 05/05/2022 - 02:49:01: [rcon_lock.smx] Flagging physics_select as cheat
+L 05/05/2022 - 02:49:01: [rcon_lock.smx] report_entities already has cheats flag
+L 05/05/2022 - 02:49:01: [rcon_lock.smx] report_touchlinks already has cheats flag
+L 05/05/2022 - 02:49:01: [rcon_lock.smx] Couldn't find snd_digital_surround (this may be normal)
+L 05/05/2022 - 02:49:01: [rcon_lock.smx] Flagging snd_restart as cheat
+L 05/05/2022 - 02:49:01: [rcon_lock.smx] Couldn't find soundlist (this may be normal)
+L 05/05/2022 - 02:49:01: [rcon_lock.smx] Flagging soundscape_flush as cheat
+L 05/05/2022 - 02:49:01: [rcon_lock.smx] Couldn't find wc_update_entity (this may be normal)
+L 05/05/2022 - 02:49:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "100000")
+L 05/05/2022 - 02:49:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 02:49:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 02:49:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 02:49:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "10sm_cvar")
+L 05/05/2022 - 02:49:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 02:49:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "100")
+L 05/05/2022 - 02:49:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "100")
+L 05/05/2022 - 02:49:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 02:49:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 02:49:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 05/05/2022 - 02:49:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 05/05/2022 - 02:49:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.014")
+L 05/05/2022 - 02:49:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_splitpacket_maxrate") (value "50000")
+L 05/05/2022 - 02:49:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "0")
+L 05/05/2022 - 02:49:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tick_door_speed") (value "1.30")
+L 05/05/2022 - 02:49:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/05/2022 - 02:49:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 05/05/2022 - 02:49:46: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220505.log") (Version "1.10.0.6528")
+L 05/05/2022 - 02:49:46: [rcon_lock.smx] 28 cheat commands
+L 05/05/2022 - 02:49:46: [rcon_lock.smx] Couldn't find ai_test_los (this may be normal)
+L 05/05/2022 - 02:49:46: [rcon_lock.smx] Flagging dbghist_dump as cheat
+L 05/05/2022 - 02:49:46: [rcon_lock.smx] dump_entity_sizes already has cheats flag
+L 05/05/2022 - 02:49:46: [rcon_lock.smx] Flagging dump_globals as cheat
+L 05/05/2022 - 02:49:46: [rcon_lock.smx] Couldn't find dump_terrain (this may be normal)
+L 05/05/2022 - 02:49:46: [rcon_lock.smx] Couldn't find dumpcountedstrings (this may be normal)
+L 05/05/2022 - 02:49:46: [rcon_lock.smx] dumpentityfactories already has cheats flag
+L 05/05/2022 - 02:49:46: [rcon_lock.smx] Flagging dumpeventqueue as cheat
+L 05/05/2022 - 02:49:46: [rcon_lock.smx] Couldn't find es_version (this may be normal)
+L 05/05/2022 - 02:49:46: [rcon_lock.smx] groundlist already has cheats flag
+L 05/05/2022 - 02:49:46: [rcon_lock.smx] Flagging listmodels as cheat
+L 05/05/2022 - 02:49:46: [rcon_lock.smx] Flagging mem_dump as cheat
+L 05/05/2022 - 02:49:46: [rcon_lock.smx] Couldn't find mp_dump_timers (this may be normal)
+L 05/05/2022 - 02:49:46: [rcon_lock.smx] Couldn't find npc_ammo_deplete (this may be normal)
+L 05/05/2022 - 02:49:46: [rcon_lock.smx] Couldn't find npc_heal (this may be normal)
+L 05/05/2022 - 02:49:46: [rcon_lock.smx] Couldn't find npc_speakall (this may be normal)
+L 05/05/2022 - 02:49:46: [rcon_lock.smx] Couldn't find npc_thinknow (this may be normal)
+L 05/05/2022 - 02:49:46: [rcon_lock.smx] Flagging physics_budget as cheat
+L 05/05/2022 - 02:49:46: [rcon_lock.smx] Flagging physics_debug_entity as cheat
+L 05/05/2022 - 02:49:46: [rcon_lock.smx] Flagging physics_report_active as cheat
+L 05/05/2022 - 02:49:46: [rcon_lock.smx] Flagging physics_select as cheat
+L 05/05/2022 - 02:49:46: [rcon_lock.smx] report_entities already has cheats flag
+L 05/05/2022 - 02:49:46: [rcon_lock.smx] report_touchlinks already has cheats flag
+L 05/05/2022 - 02:49:46: [rcon_lock.smx] Couldn't find snd_digital_surround (this may be normal)
+L 05/05/2022 - 02:49:46: [rcon_lock.smx] Flagging snd_restart as cheat
+L 05/05/2022 - 02:49:46: [rcon_lock.smx] Couldn't find soundlist (this may be normal)
+L 05/05/2022 - 02:49:46: [rcon_lock.smx] Flagging soundscape_flush as cheat
+L 05/05/2022 - 02:49:46: [rcon_lock.smx] Couldn't find wc_update_entity (this may be normal)
+L 05/05/2022 - 02:49:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "100000")
+L 05/05/2022 - 02:49:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 02:49:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 02:49:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 02:49:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "10sm_cvar")
+L 05/05/2022 - 02:49:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 02:49:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "100")
+L 05/05/2022 - 02:49:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "100")
+L 05/05/2022 - 02:49:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 02:49:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 02:49:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 05/05/2022 - 02:49:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 05/05/2022 - 02:49:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.014")
+L 05/05/2022 - 02:49:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_splitpacket_maxrate") (value "50000")
+L 05/05/2022 - 02:49:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "0")
+L 05/05/2022 - 02:49:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tick_door_speed") (value "1.30")
+L 05/05/2022 - 02:49:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/05/2022 - 02:49:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 05/05/2022 - 02:52:48: -------- Mapchange to l4d2_tank_challenge --------
+L 05/05/2022 - 02:52:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "100000")
+L 05/05/2022 - 02:52:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 02:52:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 02:52:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 02:52:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "10sm_cvar")
+L 05/05/2022 - 02:52:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 02:52:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "100")
+L 05/05/2022 - 02:52:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "100")
+L 05/05/2022 - 02:52:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 02:52:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 02:52:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 05/05/2022 - 02:52:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 05/05/2022 - 02:52:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.014")
+L 05/05/2022 - 02:52:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_splitpacket_maxrate") (value "50000")
+L 05/05/2022 - 02:52:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "0")
+L 05/05/2022 - 02:52:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tick_door_speed") (value "1.30")
+L 05/05/2022 - 02:52:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/05/2022 - 02:52:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 05/05/2022 - 15:05:01: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220505.log") (Version "1.10.0.6528")
+L 05/05/2022 - 15:05:01: [rcon_lock.smx] 28 cheat commands
+L 05/05/2022 - 15:05:01: [rcon_lock.smx] Couldn't find ai_test_los (this may be normal)
+L 05/05/2022 - 15:05:01: [rcon_lock.smx] Flagging dbghist_dump as cheat
+L 05/05/2022 - 15:05:01: [rcon_lock.smx] dump_entity_sizes already has cheats flag
+L 05/05/2022 - 15:05:01: [rcon_lock.smx] Flagging dump_globals as cheat
+L 05/05/2022 - 15:05:01: [rcon_lock.smx] Couldn't find dump_terrain (this may be normal)
+L 05/05/2022 - 15:05:01: [rcon_lock.smx] Couldn't find dumpcountedstrings (this may be normal)
+L 05/05/2022 - 15:05:01: [rcon_lock.smx] dumpentityfactories already has cheats flag
+L 05/05/2022 - 15:05:01: [rcon_lock.smx] Flagging dumpeventqueue as cheat
+L 05/05/2022 - 15:05:01: [rcon_lock.smx] Couldn't find es_version (this may be normal)
+L 05/05/2022 - 15:05:01: [rcon_lock.smx] groundlist already has cheats flag
+L 05/05/2022 - 15:05:01: [rcon_lock.smx] Flagging listmodels as cheat
+L 05/05/2022 - 15:05:01: [rcon_lock.smx] Flagging mem_dump as cheat
+L 05/05/2022 - 15:05:01: [rcon_lock.smx] Couldn't find mp_dump_timers (this may be normal)
+L 05/05/2022 - 15:05:01: [rcon_lock.smx] Couldn't find npc_ammo_deplete (this may be normal)
+L 05/05/2022 - 15:05:01: [rcon_lock.smx] Couldn't find npc_heal (this may be normal)
+L 05/05/2022 - 15:05:01: [rcon_lock.smx] Couldn't find npc_speakall (this may be normal)
+L 05/05/2022 - 15:05:01: [rcon_lock.smx] Couldn't find npc_thinknow (this may be normal)
+L 05/05/2022 - 15:05:01: [rcon_lock.smx] Flagging physics_budget as cheat
+L 05/05/2022 - 15:05:01: [rcon_lock.smx] Flagging physics_debug_entity as cheat
+L 05/05/2022 - 15:05:01: [rcon_lock.smx] Flagging physics_report_active as cheat
+L 05/05/2022 - 15:05:01: [rcon_lock.smx] Flagging physics_select as cheat
+L 05/05/2022 - 15:05:01: [rcon_lock.smx] report_entities already has cheats flag
+L 05/05/2022 - 15:05:01: [rcon_lock.smx] report_touchlinks already has cheats flag
+L 05/05/2022 - 15:05:01: [rcon_lock.smx] Couldn't find snd_digital_surround (this may be normal)
+L 05/05/2022 - 15:05:01: [rcon_lock.smx] Flagging snd_restart as cheat
+L 05/05/2022 - 15:05:01: [rcon_lock.smx] Couldn't find soundlist (this may be normal)
+L 05/05/2022 - 15:05:01: [rcon_lock.smx] Flagging soundscape_flush as cheat
+L 05/05/2022 - 15:05:01: [rcon_lock.smx] Couldn't find wc_update_entity (this may be normal)
+L 05/05/2022 - 15:05:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "100000")
+L 05/05/2022 - 15:05:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 15:05:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 15:05:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 15:05:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "10sm_cvar")
+L 05/05/2022 - 15:05:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 15:05:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "100")
+L 05/05/2022 - 15:05:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "100")
+L 05/05/2022 - 15:05:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 15:05:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 15:05:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 05/05/2022 - 15:05:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 05/05/2022 - 15:05:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.014")
+L 05/05/2022 - 15:05:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_splitpacket_maxrate") (value "50000")
+L 05/05/2022 - 15:05:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "0")
+L 05/05/2022 - 15:05:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tick_door_speed") (value "1.30")
+L 05/05/2022 - 15:05:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/05/2022 - 15:05:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 05/05/2022 - 15:15:22: -------- Mapchange to c1m4_atrium --------
+L 05/05/2022 - 15:15:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "100000")
+L 05/05/2022 - 15:15:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 15:15:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 15:15:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 15:15:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "10sm_cvar")
+L 05/05/2022 - 15:15:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 15:15:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "100")
+L 05/05/2022 - 15:15:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "100")
+L 05/05/2022 - 15:15:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 15:15:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 15:15:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 05/05/2022 - 15:15:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 05/05/2022 - 15:15:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.014")
+L 05/05/2022 - 15:15:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_splitpacket_maxrate") (value "50000")
+L 05/05/2022 - 15:15:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "0")
+L 05/05/2022 - 15:15:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tick_door_speed") (value "1.30")
+L 05/05/2022 - 15:15:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/05/2022 - 15:15:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 05/05/2022 - 20:44:56: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220505.log") (Version "1.10.0.6528")
+L 05/05/2022 - 20:44:56: [rcon_lock.smx] 28 cheat commands
+L 05/05/2022 - 20:44:56: [rcon_lock.smx] Couldn't find ai_test_los (this may be normal)
+L 05/05/2022 - 20:44:56: [rcon_lock.smx] Flagging dbghist_dump as cheat
+L 05/05/2022 - 20:44:56: [rcon_lock.smx] dump_entity_sizes already has cheats flag
+L 05/05/2022 - 20:44:56: [rcon_lock.smx] Flagging dump_globals as cheat
+L 05/05/2022 - 20:44:56: [rcon_lock.smx] Couldn't find dump_terrain (this may be normal)
+L 05/05/2022 - 20:44:56: [rcon_lock.smx] Couldn't find dumpcountedstrings (this may be normal)
+L 05/05/2022 - 20:44:56: [rcon_lock.smx] dumpentityfactories already has cheats flag
+L 05/05/2022 - 20:44:56: [rcon_lock.smx] Flagging dumpeventqueue as cheat
+L 05/05/2022 - 20:44:56: [rcon_lock.smx] Couldn't find es_version (this may be normal)
+L 05/05/2022 - 20:44:56: [rcon_lock.smx] groundlist already has cheats flag
+L 05/05/2022 - 20:44:56: [rcon_lock.smx] Flagging listmodels as cheat
+L 05/05/2022 - 20:44:56: [rcon_lock.smx] Flagging mem_dump as cheat
+L 05/05/2022 - 20:44:56: [rcon_lock.smx] Couldn't find mp_dump_timers (this may be normal)
+L 05/05/2022 - 20:44:56: [rcon_lock.smx] Couldn't find npc_ammo_deplete (this may be normal)
+L 05/05/2022 - 20:44:56: [rcon_lock.smx] Couldn't find npc_heal (this may be normal)
+L 05/05/2022 - 20:44:56: [rcon_lock.smx] Couldn't find npc_speakall (this may be normal)
+L 05/05/2022 - 20:44:56: [rcon_lock.smx] Couldn't find npc_thinknow (this may be normal)
+L 05/05/2022 - 20:44:56: [rcon_lock.smx] Flagging physics_budget as cheat
+L 05/05/2022 - 20:44:56: [rcon_lock.smx] Flagging physics_debug_entity as cheat
+L 05/05/2022 - 20:44:56: [rcon_lock.smx] Flagging physics_report_active as cheat
+L 05/05/2022 - 20:44:56: [rcon_lock.smx] Flagging physics_select as cheat
+L 05/05/2022 - 20:44:56: [rcon_lock.smx] report_entities already has cheats flag
+L 05/05/2022 - 20:44:56: [rcon_lock.smx] report_touchlinks already has cheats flag
+L 05/05/2022 - 20:44:56: [rcon_lock.smx] Couldn't find snd_digital_surround (this may be normal)
+L 05/05/2022 - 20:44:56: [rcon_lock.smx] Flagging snd_restart as cheat
+L 05/05/2022 - 20:44:56: [rcon_lock.smx] Couldn't find soundlist (this may be normal)
+L 05/05/2022 - 20:44:56: [rcon_lock.smx] Flagging soundscape_flush as cheat
+L 05/05/2022 - 20:44:56: [rcon_lock.smx] Couldn't find wc_update_entity (this may be normal)
+L 05/05/2022 - 20:45:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "100000")
+L 05/05/2022 - 20:45:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 20:45:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 20:45:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 20:45:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "10sm_cvar")
+L 05/05/2022 - 20:45:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 20:45:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "100")
+L 05/05/2022 - 20:45:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "100")
+L 05/05/2022 - 20:45:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 20:45:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 20:45:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 05/05/2022 - 20:45:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 05/05/2022 - 20:45:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.014")
+L 05/05/2022 - 20:45:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_splitpacket_maxrate") (value "50000")
+L 05/05/2022 - 20:45:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "0")
+L 05/05/2022 - 20:45:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tick_door_speed") (value "1.30")
+L 05/05/2022 - 20:45:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/05/2022 - 20:45:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 05/05/2022 - 20:48:08: -------- Mapchange to c8m1_apartment --------
+L 05/05/2022 - 20:48:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "100000")
+L 05/05/2022 - 20:48:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 20:48:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 20:48:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 20:48:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "10sm_cvar")
+L 05/05/2022 - 20:48:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 20:48:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "100")
+L 05/05/2022 - 20:48:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "100")
+L 05/05/2022 - 20:48:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 20:48:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 20:48:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 05/05/2022 - 20:48:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 05/05/2022 - 20:48:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.014")
+L 05/05/2022 - 20:48:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_splitpacket_maxrate") (value "50000")
+L 05/05/2022 - 20:48:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "0")
+L 05/05/2022 - 20:48:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tick_door_speed") (value "1.30")
+L 05/05/2022 - 20:48:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/05/2022 - 20:48:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 05/05/2022 - 20:56:29: -------- Mapchange to c8m2_subway --------
+L 05/05/2022 - 20:56:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "100000")
+L 05/05/2022 - 20:56:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 20:56:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 20:56:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 20:56:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "10sm_cvar")
+L 05/05/2022 - 20:56:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 20:56:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "100")
+L 05/05/2022 - 20:56:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "100")
+L 05/05/2022 - 20:56:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 20:56:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 20:56:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 05/05/2022 - 20:56:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 05/05/2022 - 20:56:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.014")
+L 05/05/2022 - 20:56:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_splitpacket_maxrate") (value "50000")
+L 05/05/2022 - 20:56:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "0")
+L 05/05/2022 - 20:56:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tick_door_speed") (value "1.30")
+L 05/05/2022 - 20:56:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/05/2022 - 20:56:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 05/05/2022 - 20:56:30: [rcon_lock.smx] Got half-connected command from client 3 (ip unknown): setpause 
+L 05/05/2022 - 21:14:25: -------- Mapchange to c8m3_sewers --------
+L 05/05/2022 - 21:14:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "100000")
+L 05/05/2022 - 21:14:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 21:14:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 21:14:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 21:14:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "10sm_cvar")
+L 05/05/2022 - 21:14:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 21:14:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "100")
+L 05/05/2022 - 21:14:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "100")
+L 05/05/2022 - 21:14:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 21:14:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 21:14:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 05/05/2022 - 21:14:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 05/05/2022 - 21:14:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.014")
+L 05/05/2022 - 21:14:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_splitpacket_maxrate") (value "50000")
+L 05/05/2022 - 21:14:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "0")
+L 05/05/2022 - 21:14:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tick_door_speed") (value "1.30")
+L 05/05/2022 - 21:14:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/05/2022 - 21:14:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 05/05/2022 - 21:26:15: -------- Mapchange to c8m4_interior --------
+L 05/05/2022 - 21:26:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "100000")
+L 05/05/2022 - 21:26:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 21:26:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 21:26:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 21:26:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "10sm_cvar")
+L 05/05/2022 - 21:26:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 21:26:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "100")
+L 05/05/2022 - 21:26:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "100")
+L 05/05/2022 - 21:26:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 21:26:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 21:26:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 05/05/2022 - 21:26:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 05/05/2022 - 21:26:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.014")
+L 05/05/2022 - 21:26:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_splitpacket_maxrate") (value "50000")
+L 05/05/2022 - 21:26:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "0")
+L 05/05/2022 - 21:26:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tick_door_speed") (value "1.30")
+L 05/05/2022 - 21:26:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/05/2022 - 21:26:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 05/05/2022 - 21:36:39: -------- Mapchange to c8m5_rooftop --------
+L 05/05/2022 - 21:36:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "100000")
+L 05/05/2022 - 21:36:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 21:36:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 21:36:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 21:36:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "10sm_cvar")
+L 05/05/2022 - 21:36:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 21:36:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "100")
+L 05/05/2022 - 21:36:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "100")
+L 05/05/2022 - 21:36:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 21:36:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 21:36:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 05/05/2022 - 21:36:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 05/05/2022 - 21:36:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.014")
+L 05/05/2022 - 21:36:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_splitpacket_maxrate") (value "50000")
+L 05/05/2022 - 21:36:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "0")
+L 05/05/2022 - 21:36:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tick_door_speed") (value "1.30")
+L 05/05/2022 - 21:36:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/05/2022 - 21:36:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 05/05/2022 - 21:47:05: -------- Mapchange to c1m1_hotel --------
+L 05/05/2022 - 21:47:06: [rcon_lock.smx] Got half-connected command from client 7 (ip unknown): setpause 
+L 05/05/2022 - 21:47:06: [rcon_lock.smx] Got half-connected command from client 9 (ip unknown): setpause 
+L 05/05/2022 - 21:47:06: [rcon_lock.smx] Got half-connected command from client 4 (ip unknown): setpause 
+L 05/05/2022 - 21:47:06: [rcon_lock.smx] Got half-connected command from client 3 (ip unknown): setpause 
+L 05/05/2022 - 21:47:06: [rcon_lock.smx] Got half-connected command from client 5 (ip unknown): setpause 
+L 05/05/2022 - 21:47:06: [rcon_lock.smx] Got half-connected command from client 2 (ip unknown): setpause 
+L 05/05/2022 - 21:47:06: [rcon_lock.smx] Got half-connected command from client 1 (ip unknown): setpause 
+L 05/05/2022 - 21:47:06: [rcon_lock.smx] Got half-connected command from client 6 (ip unknown): setpause 
+L 05/05/2022 - 21:47:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "100000")
+L 05/05/2022 - 21:47:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 21:47:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 21:47:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 21:47:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "10sm_cvar")
+L 05/05/2022 - 21:47:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 21:47:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "100")
+L 05/05/2022 - 21:47:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "100")
+L 05/05/2022 - 21:47:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 21:47:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 21:47:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 05/05/2022 - 21:47:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 05/05/2022 - 21:47:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.014")
+L 05/05/2022 - 21:47:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_splitpacket_maxrate") (value "50000")
+L 05/05/2022 - 21:47:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "0")
+L 05/05/2022 - 21:47:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tick_door_speed") (value "1.30")
+L 05/05/2022 - 21:47:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/05/2022 - 21:47:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 05/05/2022 - 21:54:11: -------- Mapchange to c1m2_streets --------
+L 05/05/2022 - 21:54:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "100000")
+L 05/05/2022 - 21:54:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 21:54:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 21:54:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 21:54:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "10sm_cvar")
+L 05/05/2022 - 21:54:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 21:54:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "100")
+L 05/05/2022 - 21:54:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "100")
+L 05/05/2022 - 21:54:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 21:54:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 21:54:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 05/05/2022 - 21:54:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 05/05/2022 - 21:54:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.014")
+L 05/05/2022 - 21:54:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_splitpacket_maxrate") (value "50000")
+L 05/05/2022 - 21:54:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "0")
+L 05/05/2022 - 21:54:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tick_door_speed") (value "1.30")
+L 05/05/2022 - 21:54:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/05/2022 - 21:54:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 05/05/2022 - 21:54:13: [rcon_lock.smx] Got half-connected command from client 6 (ip unknown): setpause 
+L 05/05/2022 - 22:18:18: -------- Mapchange to c1m3_mall --------
+L 05/05/2022 - 22:18:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "100000")
+L 05/05/2022 - 22:18:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 22:18:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 22:18:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 22:18:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "10sm_cvar")
+L 05/05/2022 - 22:18:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 22:18:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "100")
+L 05/05/2022 - 22:18:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "100")
+L 05/05/2022 - 22:18:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 22:18:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 22:18:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 05/05/2022 - 22:18:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 05/05/2022 - 22:18:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.014")
+L 05/05/2022 - 22:18:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_splitpacket_maxrate") (value "50000")
+L 05/05/2022 - 22:18:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "0")
+L 05/05/2022 - 22:18:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tick_door_speed") (value "1.30")
+L 05/05/2022 - 22:18:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/05/2022 - 22:18:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 05/05/2022 - 22:22:10: -------- Mapchange to c1m3_mall --------
+L 05/05/2022 - 22:22:28: [rcon_lock.smx] Got half-connected command from client 2 (ip unknown): setpause 
+L 05/05/2022 - 22:22:28: [rcon_lock.smx] Got half-connected command from client 1 (ip unknown): setpause 
+L 05/05/2022 - 22:22:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "100000")
+L 05/05/2022 - 22:22:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 22:22:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 22:22:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 22:22:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "10sm_cvar")
+L 05/05/2022 - 22:22:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 22:22:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "100")
+L 05/05/2022 - 22:22:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "100")
+L 05/05/2022 - 22:22:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 22:22:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 22:22:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 05/05/2022 - 22:22:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 05/05/2022 - 22:22:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.014")
+L 05/05/2022 - 22:22:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_splitpacket_maxrate") (value "50000")
+L 05/05/2022 - 22:22:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "0")
+L 05/05/2022 - 22:22:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tick_door_speed") (value "1.30")
+L 05/05/2022 - 22:22:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/05/2022 - 22:22:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 05/05/2022 - 22:23:01: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220505.log") (Version "1.10.0.6528")
+L 05/05/2022 - 22:23:01: [rcon_lock.smx] 28 cheat commands
+L 05/05/2022 - 22:23:01: [rcon_lock.smx] Couldn't find ai_test_los (this may be normal)
+L 05/05/2022 - 22:23:01: [rcon_lock.smx] Flagging dbghist_dump as cheat
+L 05/05/2022 - 22:23:01: [rcon_lock.smx] dump_entity_sizes already has cheats flag
+L 05/05/2022 - 22:23:01: [rcon_lock.smx] Flagging dump_globals as cheat
+L 05/05/2022 - 22:23:01: [rcon_lock.smx] Couldn't find dump_terrain (this may be normal)
+L 05/05/2022 - 22:23:01: [rcon_lock.smx] Couldn't find dumpcountedstrings (this may be normal)
+L 05/05/2022 - 22:23:01: [rcon_lock.smx] dumpentityfactories already has cheats flag
+L 05/05/2022 - 22:23:01: [rcon_lock.smx] Flagging dumpeventqueue as cheat
+L 05/05/2022 - 22:23:01: [rcon_lock.smx] Couldn't find es_version (this may be normal)
+L 05/05/2022 - 22:23:01: [rcon_lock.smx] groundlist already has cheats flag
+L 05/05/2022 - 22:23:01: [rcon_lock.smx] Flagging listmodels as cheat
+L 05/05/2022 - 22:23:01: [rcon_lock.smx] Flagging mem_dump as cheat
+L 05/05/2022 - 22:23:01: [rcon_lock.smx] Couldn't find mp_dump_timers (this may be normal)
+L 05/05/2022 - 22:23:01: [rcon_lock.smx] Couldn't find npc_ammo_deplete (this may be normal)
+L 05/05/2022 - 22:23:01: [rcon_lock.smx] Couldn't find npc_heal (this may be normal)
+L 05/05/2022 - 22:23:01: [rcon_lock.smx] Couldn't find npc_speakall (this may be normal)
+L 05/05/2022 - 22:23:01: [rcon_lock.smx] Couldn't find npc_thinknow (this may be normal)
+L 05/05/2022 - 22:23:01: [rcon_lock.smx] Flagging physics_budget as cheat
+L 05/05/2022 - 22:23:01: [rcon_lock.smx] Flagging physics_debug_entity as cheat
+L 05/05/2022 - 22:23:01: [rcon_lock.smx] Flagging physics_report_active as cheat
+L 05/05/2022 - 22:23:01: [rcon_lock.smx] Flagging physics_select as cheat
+L 05/05/2022 - 22:23:01: [rcon_lock.smx] report_entities already has cheats flag
+L 05/05/2022 - 22:23:01: [rcon_lock.smx] report_touchlinks already has cheats flag
+L 05/05/2022 - 22:23:01: [rcon_lock.smx] Couldn't find snd_digital_surround (this may be normal)
+L 05/05/2022 - 22:23:01: [rcon_lock.smx] Flagging snd_restart as cheat
+L 05/05/2022 - 22:23:01: [rcon_lock.smx] Couldn't find soundlist (this may be normal)
+L 05/05/2022 - 22:23:01: [rcon_lock.smx] Flagging soundscape_flush as cheat
+L 05/05/2022 - 22:23:01: [rcon_lock.smx] Couldn't find wc_update_entity (this may be normal)
+L 05/05/2022 - 22:23:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "100000")
+L 05/05/2022 - 22:23:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 22:23:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 22:23:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 22:23:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "10sm_cvar")
+L 05/05/2022 - 22:23:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 22:23:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "100")
+L 05/05/2022 - 22:23:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "100")
+L 05/05/2022 - 22:23:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 22:23:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 22:23:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 05/05/2022 - 22:23:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 05/05/2022 - 22:23:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.014")
+L 05/05/2022 - 22:23:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_splitpacket_maxrate") (value "50000")
+L 05/05/2022 - 22:23:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "0")
+L 05/05/2022 - 22:23:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tick_door_speed") (value "1.30")
+L 05/05/2022 - 22:23:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/05/2022 - 22:23:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 05/05/2022 - 22:37:04: -------- Mapchange to c13m1_alpinecreek --------
+L 05/05/2022 - 22:37:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "100000")
+L 05/05/2022 - 22:37:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 22:37:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 22:37:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 22:37:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "10sm_cvar")
+L 05/05/2022 - 22:37:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "100000")
+L 05/05/2022 - 22:37:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "100")
+L 05/05/2022 - 22:37:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "100")
+L 05/05/2022 - 22:37:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 05/05/2022 - 22:37:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 05/05/2022 - 22:37:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 05/05/2022 - 22:37:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 05/05/2022 - 22:37:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.014")
+L 05/05/2022 - 22:37:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_splitpacket_maxrate") (value "50000")
+L 05/05/2022 - 22:37:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "0")
+L 05/05/2022 - 22:37:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tick_door_speed") (value "1.30")
+L 05/05/2022 - 22:37:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/05/2022 - 22:37:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")

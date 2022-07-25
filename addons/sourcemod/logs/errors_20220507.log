@@ -1,0 +1,122 @@
+L 05/07/2022 - 01:24:33: SourceMod error session started
+L 05/07/2022 - 01:24:33: Info (map "c1m1_hotel") (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/errors_20220507.log")
+L 05/07/2022 - 01:24:33: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 05/07/2022 - 01:24:33: [SM] Unrecognized library "matchmaking_ds" (gameconf "/home/steam/l4d2/left4dead2/addons/sourcemod/gamedata/l4dslots.txt")
+L 05/07/2022 - 01:24:40: [l4dslots.smx] sv_maxplayers MS init error
+L 05/07/2022 - 01:28:30: Error log file session closed.
+L 05/07/2022 - 01:38:49: SourceMod error session started
+L 05/07/2022 - 01:38:49: Info (map "c1m1_hotel") (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/errors_20220507.log")
+L 05/07/2022 - 01:38:49: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 05/07/2022 - 01:38:49: [SM] Unrecognized library "matchmaking_ds" (gameconf "/home/steam/l4d2/left4dead2/addons/sourcemod/gamedata/l4dslots.txt")
+L 05/07/2022 - 01:38:52: [l4dslots.smx] sv_maxplayers MS init error
+L 05/07/2022 - 01:39:10: Error log file session closed.
+L 05/07/2022 - 03:37:15: SourceMod error session started
+L 05/07/2022 - 03:37:15: Info (map "c1m1_hotel") (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/errors_20220507.log")
+L 05/07/2022 - 03:37:15: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 05/07/2022 - 03:37:15: [SM] Unrecognized library "matchmaking_ds" (gameconf "/home/steam/l4d2/left4dead2/addons/sourcemod/gamedata/l4dslots.txt")
+L 05/07/2022 - 03:37:23: [l4dslots.smx] sv_maxplayers MS init error
+L 05/07/2022 - 03:43:44: SourceMod error session started
+L 05/07/2022 - 03:43:44: Info (map "c1m1_hotel") (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/errors_20220507.log")
+L 05/07/2022 - 03:43:44: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 05/07/2022 - 03:43:44: [SM] Unrecognized library "matchmaking_ds" (gameconf "/home/steam/l4d2/left4dead2/addons/sourcemod/gamedata/l4dslots.txt")
+L 05/07/2022 - 03:43:45: [l4dslots.smx] sv_maxplayers MS init error
+L 05/07/2022 - 03:46:49: SourceMod error session started
+L 05/07/2022 - 03:46:49: Info (map "c1m1_hotel") (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/errors_20220507.log")
+L 05/07/2022 - 03:46:49: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 05/07/2022 - 03:46:49: [SM] Unrecognized library "matchmaking_ds" (gameconf "/home/steam/l4d2/left4dead2/addons/sourcemod/gamedata/l4dslots.txt")
+L 05/07/2022 - 03:46:51: [l4dslots.smx] sv_maxplayers MS init error
+L 05/07/2022 - 03:51:04: [SM] Exception reported: Client 1 is not connected
+L 05/07/2022 - 03:51:04: [SM] Blaming: l4d2_bwa_teamspanel.smx
+L 05/07/2022 - 03:51:04: [SM] Call stack trace:
+L 05/07/2022 - 03:51:04: [SM]   [0] FakeClientCommand
+L 05/07/2022 - 03:51:04: [SM]   [1] Line 1203, /home/forums/content/files/9/9/8/5/2/95471.attach::UnPauseCountDown
+L 05/07/2022 - 03:51:09: [SM] Exception reported: Client 1 is not connected
+L 05/07/2022 - 03:51:09: [SM] Blaming: l4d2_bwa_teamspanel.smx
+L 05/07/2022 - 03:51:09: [SM] Call stack trace:
+L 05/07/2022 - 03:51:09: [SM]   [0] FakeClientCommand
+L 05/07/2022 - 03:51:09: [SM]   [1] Line 1203, /home/forums/content/files/9/9/8/5/2/95471.attach::UnPauseCountDown
+L 05/07/2022 - 03:51:14: [SM] Exception reported: Client 1 is not connected
+L 05/07/2022 - 03:51:14: [SM] Blaming: l4d2_bwa_teamspanel.smx
+L 05/07/2022 - 03:51:14: [SM] Call stack trace:
+L 05/07/2022 - 03:51:14: [SM]   [0] FakeClientCommand
+L 05/07/2022 - 03:51:14: [SM]   [1] Line 1203, /home/forums/content/files/9/9/8/5/2/95471.attach::UnPauseCountDown
+L 05/07/2022 - 03:51:19: [SM] Exception reported: Client 1 is not connected
+L 05/07/2022 - 03:51:19: [SM] Blaming: l4d2_bwa_teamspanel.smx
+L 05/07/2022 - 03:51:19: [SM] Call stack trace:
+L 05/07/2022 - 03:51:19: [SM]   [0] FakeClientCommand
+L 05/07/2022 - 03:51:19: [SM]   [1] Line 1203, /home/forums/content/files/9/9/8/5/2/95471.attach::UnPauseCountDown
+L 05/07/2022 - 03:51:24: [SM] Exception reported: Client 1 is not connected
+L 05/07/2022 - 03:51:24: [SM] Blaming: l4d2_bwa_teamspanel.smx
+L 05/07/2022 - 03:51:24: [SM] Call stack trace:
+L 05/07/2022 - 03:51:24: [SM]   [0] FakeClientCommand
+L 05/07/2022 - 03:51:24: [SM]   [1] Line 1203, /home/forums/content/files/9/9/8/5/2/95471.attach::UnPauseCountDown
+L 05/07/2022 - 03:51:29: [SM] Exception reported: Client 1 is not connected
+L 05/07/2022 - 03:51:29: [SM] Blaming: l4d2_bwa_teamspanel.smx
+L 05/07/2022 - 03:51:29: [SM] Call stack trace:
+L 05/07/2022 - 03:51:29: [SM]   [0] FakeClientCommand
+L 05/07/2022 - 03:51:29: [SM]   [1] Line 1203, /home/forums/content/files/9/9/8/5/2/95471.attach::UnPauseCountDown
+L 05/07/2022 - 03:51:34: [SM] Exception reported: Client 1 is not connected
+L 05/07/2022 - 03:51:34: [SM] Blaming: l4d2_bwa_teamspanel.smx
+L 05/07/2022 - 03:51:34: [SM] Call stack trace:
+L 05/07/2022 - 03:51:34: [SM]   [0] FakeClientCommand
+L 05/07/2022 - 03:51:34: [SM]   [1] Line 1203, /home/forums/content/files/9/9/8/5/2/95471.attach::UnPauseCountDown
+L 05/07/2022 - 03:51:39: [SM] Exception reported: Client 1 is not connected
+L 05/07/2022 - 03:51:39: [SM] Blaming: l4d2_bwa_teamspanel.smx
+L 05/07/2022 - 03:51:39: [SM] Call stack trace:
+L 05/07/2022 - 03:51:39: [SM]   [0] FakeClientCommand
+L 05/07/2022 - 03:51:39: [SM]   [1] Line 1203, /home/forums/content/files/9/9/8/5/2/95471.attach::UnPauseCountDown
+L 05/07/2022 - 03:51:44: [SM] Exception reported: Client 1 is not connected
+L 05/07/2022 - 03:51:44: [SM] Blaming: l4d2_bwa_teamspanel.smx
+L 05/07/2022 - 03:51:44: [SM] Call stack trace:
+L 05/07/2022 - 03:51:44: [SM]   [0] FakeClientCommand
+L 05/07/2022 - 03:51:44: [SM]   [1] Line 1203, /home/forums/content/files/9/9/8/5/2/95471.attach::UnPauseCountDown
+L 05/07/2022 - 03:51:49: [SM] Exception reported: Client 1 is not connected
+L 05/07/2022 - 03:51:49: [SM] Blaming: l4d2_bwa_teamspanel.smx
+L 05/07/2022 - 03:51:49: [SM] Call stack trace:
+L 05/07/2022 - 03:51:49: [SM]   [0] FakeClientCommand
+L 05/07/2022 - 03:51:49: [SM]   [1] Line 1203, /home/forums/content/files/9/9/8/5/2/95471.attach::UnPauseCountDown
+L 05/07/2022 - 03:51:54: [SM] Exception reported: Client 1 is not connected
+L 05/07/2022 - 03:51:54: [SM] Blaming: l4d2_bwa_teamspanel.smx
+L 05/07/2022 - 03:51:54: [SM] Call stack trace:
+L 05/07/2022 - 03:51:54: [SM]   [0] FakeClientCommand
+L 05/07/2022 - 03:51:54: [SM]   [1] Line 1203, /home/forums/content/files/9/9/8/5/2/95471.attach::UnPauseCountDown
+L 05/07/2022 - 03:51:59: [SM] Exception reported: Client 1 is not connected
+L 05/07/2022 - 03:51:59: [SM] Blaming: l4d2_bwa_teamspanel.smx
+L 05/07/2022 - 03:51:59: [SM] Call stack trace:
+L 05/07/2022 - 03:51:59: [SM]   [0] FakeClientCommand
+L 05/07/2022 - 03:51:59: [SM]   [1] Line 1203, /home/forums/content/files/9/9/8/5/2/95471.attach::UnPauseCountDown
+L 05/07/2022 - 03:52:04: [SM] Exception reported: Client 1 is not connected
+L 05/07/2022 - 03:52:04: [SM] Blaming: l4d2_bwa_teamspanel.smx
+L 05/07/2022 - 03:52:04: [SM] Call stack trace:
+L 05/07/2022 - 03:52:04: [SM]   [0] FakeClientCommand
+L 05/07/2022 - 03:52:04: [SM]   [1] Line 1203, /home/forums/content/files/9/9/8/5/2/95471.attach::UnPauseCountDown
+L 05/07/2022 - 03:52:09: [SM] Exception reported: Client 1 is not connected
+L 05/07/2022 - 03:52:09: [SM] Blaming: l4d2_bwa_teamspanel.smx
+L 05/07/2022 - 03:52:09: [SM] Call stack trace:
+L 05/07/2022 - 03:52:09: [SM]   [0] FakeClientCommand
+L 05/07/2022 - 03:52:09: [SM]   [1] Line 1203, /home/forums/content/files/9/9/8/5/2/95471.attach::UnPauseCountDown
+L 05/07/2022 - 12:07:10: SourceMod error session started
+L 05/07/2022 - 12:07:10: Info (map "c1m1_hotel") (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/errors_20220507.log")
+L 05/07/2022 - 12:07:10: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 05/07/2022 - 12:07:10: [SM] Unrecognized library "matchmaking_ds" (gameconf "/home/steam/l4d2/left4dead2/addons/sourcemod/gamedata/l4dslots.txt")
+L 05/07/2022 - 12:07:18: [l4dslots.smx] sv_maxplayers MS init error
+L 05/07/2022 - 13:12:00: SourceMod error session started
+L 05/07/2022 - 13:12:00: Info (map "c1m1_hotel") (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/errors_20220507.log")
+L 05/07/2022 - 13:12:00: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 05/07/2022 - 13:12:01: [SM] Unrecognized library "matchmaking_ds" (gameconf "/home/steam/l4d2/left4dead2/addons/sourcemod/gamedata/l4dslots.txt")
+L 05/07/2022 - 13:12:03: [l4dslots.smx] sv_maxplayers MS init error
+L 05/07/2022 - 20:16:51: SourceMod error session started
+L 05/07/2022 - 20:16:51: Info (map "c1m1_hotel") (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/errors_20220507.log")
+L 05/07/2022 - 20:16:51: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 05/07/2022 - 20:16:51: [SM] Unrecognized library "matchmaking_ds" (gameconf "/home/steam/l4d2/left4dead2/addons/sourcemod/gamedata/l4dslots.txt")
+L 05/07/2022 - 20:16:58: [l4dslots.smx] sv_maxplayers MS init error
+L 05/07/2022 - 20:32:43: Error log file session closed.
+L 05/07/2022 - 21:34:59: SourceMod error session started
+L 05/07/2022 - 21:34:59: Info (map "c8m4_interior") (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/errors_20220507.log")
+L 05/07/2022 - 21:34:59: [SM] Exception reported: Client index -1 is invalid
+L 05/07/2022 - 21:34:59: [SM] Blaming: l4d2_bwa_teamspanel.smx
+L 05/07/2022 - 21:34:59: [SM] Call stack trace:
+L 05/07/2022 - 21:34:59: [SM]   [0] GetClientTeam
+L 05/07/2022 - 21:34:59: [SM]   [1] Line 1843, /home/forums/content/files/9/9/8/5/2/95471.attach::PerformSwap
+L 05/07/2022 - 21:34:59: [SM]   [2] Line 468, /home/forums/content/files/9/9/8/5/2/95471.attach::Admin_MnuHdlr_ChooseSwapPlayer
+L 05/07/2022 - 21:47:59: Error log file session closed.

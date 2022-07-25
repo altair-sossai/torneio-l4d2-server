@@ -1,0 +1,213 @@
+Mon May 16 00:07:10 2022: Console<0><Console><Console> executes: exec skill1.cfg
+Mon May 16 00:07:10 2022: Console<0><Console><Console> executes: exec server.cfg
+Mon May 16 00:07:10 2022: Console<0><Console><Console> executes: exec sourcemod/sourcemod.cfg
+Mon May 16 00:07:10 2022: Console<0><Console><Console> executes: exec sourcemod/funvotes.cfg
+Mon May 16 00:07:10 2022: Console<0><Console><Console> executes: exec sourcemod/spray_exploit_fixer.cfg
+Mon May 16 00:07:10 2022: Console<0><Console><Console> executes: exec sourcemod/lilac_config.cfg
+Mon May 16 00:07:10 2022: Console<0><Console><Console> executes: exec sourcemod/funcommands.cfg
+Mon May 16 00:07:10 2022: Console<0><Console><Console> executes: exec sourcemod/basevotes.cfg
+Mon May 16 00:07:11 2022: Console<0><Console><Console> executes: sm_cvar sv_minrate 100000
+Mon May 16 00:07:11 2022: Console<0><Console><Console> executes: sm_cvar sv_maxrate 100000
+Mon May 16 00:07:11 2022: Console<0><Console><Console> executes: sm_cvar sv_mincmdrate 100
+Mon May 16 00:07:11 2022: Console<0><Console><Console> executes: sm_cvar sv_maxcmdrate 100
+Mon May 16 00:07:11 2022: Console<0><Console><Console> executes: sm_cvar sv_maxupdaterate 10sm_cvar sv_minrate 100000                     
+Mon May 16 00:07:11 2022: Console<0><Console><Console> executes: sm_cvar sv_maxrate 100000                     
+Mon May 16 00:07:11 2022: Console<0><Console><Console> executes: sm_cvar sv_minupdaterate 100                  
+Mon May 16 00:07:11 2022: Console<0><Console><Console> executes: sm_cvar sv_maxupdaterate 100                  
+Mon May 16 00:07:11 2022: Console<0><Console><Console> executes: sm_cvar sv_mincmdrate 100                     
+Mon May 16 00:07:11 2022: Console<0><Console><Console> executes: sm_cvar sv_maxcmdrate 100                     
+Mon May 16 00:07:11 2022: Console<0><Console><Console> executes: sm_cvar sv_client_min_interp_ratio -1         
+Mon May 16 00:07:11 2022: Console<0><Console><Console> executes: sm_cvar sv_client_max_interp_ratio 0          
+Mon May 16 00:07:11 2022: Console<0><Console><Console> executes: sm_cvar nb_update_frequency 0.014             
+Mon May 16 00:07:11 2022: Console<0><Console><Console> executes: sm_cvar net_splitpacket_maxrate 50000         
+Mon May 16 00:07:11 2022: Console<0><Console><Console> executes: sm_cvar fps_max 0                             
+Mon May 16 00:07:11 2022: Console<0><Console><Console> executes: sm_cvar sv_allowupload 0
+Mon May 16 00:07:11 2022: Console<0><Console><Console> executes: sm_cvar sv_allowdownload 0
+Mon May 16 00:07:11 2022: Console<0><Console><Console> executes: sm_cvar tick_door_speed 1.30
+Mon May 16 00:07:11 2022: Console<0><Console><Console> executes: sm_cvar sb_all_bot_game 1
+Mon May 16 00:07:11 2022: Console<0><Console><Console> executes: sm_cvar allow_all_bot_survivor_team 0
+Mon May 16 00:07:11 2022: Console<0><Console><Console> executes: exec banned_user.cfg
+Mon May 16 00:07:11 2022: Console<0><Console><Console> executes: banid 0 STEAM_1:1:185688347
+Mon May 16 00:07:11 2022: Console<0><Console><Console> executes: sm_internal 1
+Mon May 16 00:07:11 2022: Console<0><Console><Console> executes: heartbeat 
+Mon May 16 00:07:18 2022: Filipin do Brega<57><STEAM_1:0:60930941><> executes: vmodenable 1
+Mon May 16 00:07:18 2022: Filipin do Brega<57><STEAM_1:0:60930941><> executes: vban 0
+Mon May 16 00:07:18 2022: Filipin do Brega<57><STEAM_1:0:60930941><> executes: unpause 
+Mon May 16 00:07:20 2022: Filipin do Brega<57><STEAM_1:0:60930941><> executes: vocalize smartlook auto
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) setpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) unpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) unpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) unpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) setpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) unpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) setpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) unpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) setpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) unpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) setpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) unpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) setpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) unpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) setpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) unpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) setpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) unpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) setpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) unpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) setpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) unpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) setpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) unpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) setpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) unpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) setpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) unpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) setpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) unpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) setpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) unpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) setpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) unpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) setpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) unpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) setpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) unpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) unpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) unpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) setpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) unpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) setpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) unpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) setpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) unpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) setpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) unpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) setpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) unpause 
+Mon May 16 00:07:24 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: (half connected) setpause 
+Mon May 16 00:07:25 2022: Filipin do Brega<57><STEAM_1:0:60930941><> executes: say "ajudou mtt"
+Mon May 16 00:07:25 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: unpause 
+Mon May 16 00:07:25 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: setpause 
+Mon May 16 00:07:25 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: unpause 
+Mon May 16 00:07:25 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: setpause 
+Mon May 16 00:07:26 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: vmodenable 1
+Mon May 16 00:07:26 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: vban 0
+Mon May 16 00:07:26 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: unpause 
+Mon May 16 00:07:26 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: setpause 
+Mon May 16 00:07:26 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: unpause 
+Mon May 16 00:07:27 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: setpause 
+Mon May 16 00:07:27 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: unpause 
+Mon May 16 00:07:28 2022: Princesa Jujuba<66><STEAM_1:0:79885348><> executes: setpause 
+Mon May 16 00:07:33 2022: Filipin do Brega<57><STEAM_1:0:60930941><> executes: say "na hora eu n ouvi o tank"
+Mon May 16 00:07:44 2022: Filipin do Brega<57><STEAM_1:0:60930941><> executes: say "mas vc foi pra la q é apertado"
+Mon May 16 00:07:50 2022: Filipin do Brega<57><STEAM_1:0:60930941><> executes: vocalize smartlook auto
+Mon May 16 00:07:53 2022: Filipin do Brega<57><STEAM_1:0:60930941><> executes: vocalize smartlook auto
+Mon May 16 00:08:01 2022: Filipin do Brega<57><STEAM_1:0:60930941><> executes: vocalize smartlook auto
+Mon May 16 00:08:04 2022: Filipin do Brega<57><STEAM_1:0:60930941><> executes: vocalize smartlook auto
+Mon May 16 00:08:05 2022: Filipin do Brega<57><STEAM_1:0:60930941><> executes: setpause 
+Mon May 16 00:08:06 2022: Filipin do Brega<57><STEAM_1:0:60930941><> executes: vocalize smartlook auto
+Mon May 16 00:08:54 2022: Console<0><Console><Console> executes: kickid 209 death anim finished
+Mon May 16 00:08:59 2022: Console<0><Console><Console> executes: kickid 208 death anim finished
+Mon May 16 00:09:02 2022: Console<0><Console><Console> executes: kickid 210 death anim finished
+Mon May 16 00:09:04 2022: Console<0><Console><Console> executes: kickid 211 death anim finished
+Mon May 16 00:09:19 2022: Console<0><Console><Console> executes: kickid 212 death anim finished
+Mon May 16 00:09:30 2022: Console<0><Console><Console> executes: kickid 213 death anim finished
+Mon May 16 00:09:34 2022: Console<0><Console><Console> executes: kickid 214 death anim finished
+Mon May 16 00:09:39 2022: Console<0><Console><Console> executes: kickid 215 death anim finished
+Mon May 16 00:09:48 2022: Console<0><Console><Console> executes: kickid 216 death anim finished
+Mon May 16 00:10:02 2022: Console<0><Console><Console> executes: kickid 218 death anim finished
+Mon May 16 00:10:04 2022: Console<0><Console><Console> executes: kickid 219 death anim finished
+Mon May 16 00:10:21 2022: Console<0><Console><Console> executes: kickid 217 death anim finished
+Mon May 16 00:10:22 2022: Console<0><Console><Console> executes: kickid 220 death anim finished
+Mon May 16 00:10:36 2022: Console<0><Console><Console> executes: kickid 221 death anim finished
+Mon May 16 00:10:47 2022: Console<0><Console><Console> executes: kickid 224 death anim finished
+Mon May 16 00:10:47 2022: Console<0><Console><Console> executes: kickid 223 death anim finished
+Mon May 16 00:11:07 2022: Console<0><Console><Console> executes: kickid 222 death anim finished
+Mon May 16 00:11:09 2022: Console<0><Console><Console> executes: kickid 225 death anim finished
+Mon May 16 00:11:19 2022: Console<0><Console><Console> executes: kickid 227 death anim finished
+Mon May 16 00:11:20 2022: Console<0><Console><Console> executes: kickid 226 death anim finished
+Mon May 16 00:11:35 2022: Console<0><Console><Console> executes: kickid 228 death anim finished
+Mon May 16 00:11:47 2022: Console<0><Console><Console> executes: kickid 230 death anim finished
+Mon May 16 00:12:09 2022: Console<0><Console><Console> executes: kickid 229 death anim finished
+Mon May 16 00:12:12 2022: Console<0><Console><Console> executes: kickid 232 death anim finished
+Mon May 16 00:12:16 2022: Console<0><Console><Console> executes: kickid 233 death anim finished
+Mon May 16 00:12:34 2022: Console<0><Console><Console> executes: kickid 235 death anim finished
+Mon May 16 00:12:39 2022: Console<0><Console><Console> executes: kickid 234 death anim finished
+Mon May 16 00:12:52 2022: Console<0><Console><Console> executes: kickid 236 death anim finished
+Mon May 16 00:13:04 2022: Console<0><Console><Console> executes: kickid 237 death anim finished
+Mon May 16 00:13:05 2022: Console<0><Console><Console> executes: kickid 238 death anim finished
+Mon May 16 00:13:26 2022: Console<0><Console><Console> executes: kickid 239 death anim finished
+Mon May 16 00:13:38 2022: Console<0><Console><Console> executes: kickid 240 death anim finished
+Mon May 16 00:13:41 2022: Console<0><Console><Console> executes: kickid 241 death anim finished
+Mon May 16 00:13:52 2022: Console<0><Console><Console> executes: kickid 242 death anim finished
+Mon May 16 00:14:08 2022: Console<0><Console><Console> executes: kickid 243 death anim finished
+Mon May 16 00:14:24 2022: Console<0><Console><Console> executes: kickid 245 death anim finished
+Mon May 16 00:14:34 2022: Console<0><Console><Console> executes: kickid 246 death anim finished
+Mon May 16 00:14:53 2022: Console<0><Console><Console> executes: kickid 244 death anim finished
+Mon May 16 00:15:00 2022: Console<0><Console><Console> executes: kickid 247 death anim finished
+Mon May 16 00:15:23 2022: Console<0><Console><Console> executes: kickid 249 death anim finished
+Mon May 16 00:15:44 2022: Console<0><Console><Console> executes: kickid 250 death anim finished
+Mon May 16 00:15:53 2022: Console<0><Console><Console> executes: kickid 251 death anim finished
+Mon May 16 00:16:15 2022: Console<0><Console><Console> executes: kickid 252 death anim finished
+Mon May 16 00:16:25 2022: Console<0><Console><Console> executes: kickid 253 death anim finished
+Mon May 16 00:16:56 2022: Console<0><Console><Console> executes: kickid 254 death anim finished
+Mon May 16 00:17:05 2022: Console<0><Console><Console> executes: kickid 255 death anim finished
+Mon May 16 00:17:27 2022: Console<0><Console><Console> executes: kickid 256 death anim finished
+Mon May 16 00:17:53 2022: Console<0><Console><Console> executes: kickid 257 death anim finished
+Mon May 16 00:18:00 2022: Console<0><Console><Console> executes: kickid 258 death anim finished
+Mon May 16 00:18:22 2022: Console<0><Console><Console> executes: kickid 260 death anim finished
+Mon May 16 00:18:26 2022: Console<0><Console><Console> executes: kickid 259 death anim finished
+Mon May 16 00:18:57 2022: Console<0><Console><Console> executes: kickid 262 death anim finished
+Mon May 16 00:19:01 2022: Console<0><Console><Console> executes: kickid 261 death anim finished
+Mon May 16 00:19:31 2022: Console<0><Console><Console> executes: kickid 264 death anim finished
+Mon May 16 00:19:41 2022: Console<0><Console><Console> executes: kickid 263 death anim finished
+Mon May 16 00:19:58 2022: Console<0><Console><Console> executes: kickid 265 death anim finished
+Mon May 16 00:20:22 2022: Console<0><Console><Console> executes: kickid 266 death anim finished
+Mon May 16 00:20:53 2022: Console<0><Console><Console> executes: kickid 268 death anim finished
+Mon May 16 00:21:07 2022: Console<0><Console><Console> executes: kickid 267 death anim finished
+Mon May 16 00:21:28 2022: Console<0><Console><Console> executes: kickid 269 death anim finished
+Mon May 16 00:21:54 2022: Console<0><Console><Console> executes: kickid 271 death anim finished
+Mon May 16 00:22:18 2022: Console<0><Console><Console> executes: kickid 270 death anim finished
+Mon May 16 00:22:25 2022: Console<0><Console><Console> executes: kickid 272 death anim finished
+Mon May 16 00:22:44 2022: Console<0><Console><Console> executes: kickid 273 death anim finished
+Mon May 16 00:23:10 2022: Console<0><Console><Console> executes: kickid 274 death anim finished
+Mon May 16 00:24:18 2022: Console<0><Console><Console> executes: kickid 275 death anim finished
+Mon May 16 00:24:26 2022: Console<0><Console><Console> executes: status 
+Mon May 16 00:24:47 2022: Console<0><Console><Console> executes: kickid 277 death anim finished
+Mon May 16 00:25:15 2022: Console<0><Console><Console> executes: kickid 278 death anim finished
+Mon May 16 00:25:24 2022: Console<0><Console><Console> executes: status 
+Mon May 16 09:06:35 2022: Console<0><Console><Console> executes: exec skill1.cfg
+Mon May 16 09:06:35 2022: Console<0><Console><Console> executes: exec server.cfg
+Mon May 16 09:06:35 2022: Console<0><Console><Console> executes: exec sourcemod/sourcemod.cfg
+Mon May 16 09:06:35 2022: Console<0><Console><Console> executes: exec sourcemod/funvotes.cfg
+Mon May 16 09:06:35 2022: Console<0><Console><Console> executes: exec sourcemod/spray_exploit_fixer.cfg
+Mon May 16 09:06:35 2022: Console<0><Console><Console> executes: exec sourcemod/lilac_config.cfg
+Mon May 16 09:06:35 2022: Console<0><Console><Console> executes: exec sourcemod/funcommands.cfg
+Mon May 16 09:06:35 2022: Console<0><Console><Console> executes: exec sourcemod/basevotes.cfg
+Mon May 16 09:06:36 2022: Console<0><Console><Console> executes: sm_cvar sv_minrate 100000
+Mon May 16 09:06:36 2022: Console<0><Console><Console> executes: sm_cvar sv_maxrate 100000
+Mon May 16 09:06:36 2022: Console<0><Console><Console> executes: sm_cvar sv_mincmdrate 100
+Mon May 16 09:06:36 2022: Console<0><Console><Console> executes: sm_cvar sv_maxcmdrate 100
+Mon May 16 09:06:36 2022: Console<0><Console><Console> executes: sm_cvar sv_maxupdaterate 10sm_cvar sv_minrate 100000                     
+Mon May 16 09:06:36 2022: Console<0><Console><Console> executes: sm_cvar sv_maxrate 100000                     
+Mon May 16 09:06:36 2022: Console<0><Console><Console> executes: sm_cvar sv_minupdaterate 100                  
+Mon May 16 09:06:36 2022: Console<0><Console><Console> executes: sm_cvar sv_maxupdaterate 100                  
+Mon May 16 09:06:36 2022: Console<0><Console><Console> executes: sm_cvar sv_mincmdrate 100                     
+Mon May 16 09:06:36 2022: Console<0><Console><Console> executes: sm_cvar sv_maxcmdrate 100                     
+Mon May 16 09:06:36 2022: Console<0><Console><Console> executes: sm_cvar sv_client_min_interp_ratio -1         
+Mon May 16 09:06:36 2022: Console<0><Console><Console> executes: sm_cvar sv_client_max_interp_ratio 0          
+Mon May 16 09:06:36 2022: Console<0><Console><Console> executes: sm_cvar nb_update_frequency 0.014             
+Mon May 16 09:06:36 2022: Console<0><Console><Console> executes: sm_cvar net_splitpacket_maxrate 50000         
+Mon May 16 09:06:36 2022: Console<0><Console><Console> executes: sm_cvar fps_max 0                             
+Mon May 16 09:06:36 2022: Console<0><Console><Console> executes: sm_cvar sv_allowupload 0
+Mon May 16 09:06:36 2022: Console<0><Console><Console> executes: sm_cvar sv_allowdownload 0
+Mon May 16 09:06:36 2022: Console<0><Console><Console> executes: sm_cvar tick_door_speed 1.30
+Mon May 16 09:06:36 2022: Console<0><Console><Console> executes: sm_cvar sb_all_bot_game 1
+Mon May 16 09:06:36 2022: Console<0><Console><Console> executes: sm_cvar allow_all_bot_survivor_team 0
+Mon May 16 09:06:36 2022: Console<0><Console><Console> executes: exec banned_user.cfg
+Mon May 16 09:06:36 2022: Console<0><Console><Console> executes: banid 0 STEAM_1:1:185688347
+Mon May 16 09:06:36 2022: Console<0><Console><Console> executes: heartbeat 
+Mon May 16 09:06:36 2022: Console<0><Console><Console> executes: heartbeat 
+Mon May 16 09:06:36 2022: Console<0><Console><Console> executes: heartbeat 
+Mon May 16 09:06:36 2022: Console<0><Console><Console> executes: sm_internal 1
+Mon May 16 09:06:41 2022: Console<0><Console><Console> executes: sm plugins list

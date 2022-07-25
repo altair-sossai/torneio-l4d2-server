@@ -1,0 +1,19 @@
+=========[Notice]=========
+Thank you for installing Little Anti-Cheat 1.7.1!
+Just a few notes about this Anti-Cheat:
+
+If a player is logged as "suspected" of using cheats, they are not necessarily cheating.
+If the suspicions logged are few and rare, they are likely false positives.
+An automatic ban is triggered by 5 or more "suspicions" or by one "detection".
+If you think a ban may be incorrect, please do not hesitate to let me know.
+
+That is all, have a wonderful day~
+
+
+
+2022/04/26 02:56:02 [Version 1.7.1] {Name: "THOMAS_TURBANDO" | SteamID: STEAM_1:1:185688347 | IP: 45.7.212.128} is suspected of using an aimbot (Detection: 2 | Delta: 12 | TotalDelta: 135 | Detected: Aim-Snap Aim-Snap2 Angle-Repeat).
+2022/04/26 02:57:38 [Version 1.7.1] {Name: "THOMAS_TURBANDO" | SteamID: STEAM_1:1:185688347 | IP: 45.7.212.128} is suspected of using an aimbot (Detection: 3 | Delta: 27 | TotalDelta: 251 | Detected: Aim-Snap Aim-Snap2 Angle-Repeat).
+2022/04/26 02:57:38 [Version 1.7.1] {Name: "THOMAS_TURBANDO" | SteamID: STEAM_1:1:185688347 | IP: 45.7.212.128} is suspected of using an aimbot (Detection: 4 | Delta: 27 | TotalDelta: 255 | Detected: Aim-Snap Aim-Snap2 Angle-Repeat).
+2022/04/26 02:58:02 [Version 1.7.1] {Name: "THOMAS_TURBANDO" | SteamID: STEAM_1:1:185688347 | IP: 45.7.212.128} is suspected of using an aimbot (Detection: 5 | Delta: 105 | TotalDelta: 592 | Detected: Aim-Snap Angle-Repeat Total-Delta).
+2022/04/26 02:58:02 [Version 1.7.1] {Name: "THOMAS_TURBANDO" | SteamID: STEAM_1:1:185688347 | IP: 45.7.212.128} was banned for Aimbot.
+	Pos={-1046,-1741,-377}, Angles={7.60322,97.87969,0.00000}, Map="c5m1_waterfront", Team={2}, Weapon="weapon_smg", Latency={Inc:0.000311,Out:0.083975}, Loss={Inc:0.000000,Out:0.000000}, Choke={Inc:0.209268,Out:0.030832}, ConnectionTime={468.259185 seconds}, GameTime={225.433349 seconds}

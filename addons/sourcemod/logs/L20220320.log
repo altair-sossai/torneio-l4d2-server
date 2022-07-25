@@ -1,0 +1,39 @@
+L 03/20/2022 - 18:09:54: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220320.log") (Version "1.10.0.6528")
+L 03/20/2022 - 18:09:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 03/20/2022 - 18:09:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 03/20/2022 - 18:10:12: -------- Mapchange to c10m1_caves --------
+L 03/20/2022 - 18:10:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 03/20/2022 - 18:10:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 03/20/2022 - 18:54:56: -------- Mapchange to c4m1_milltown_a --------
+L 03/20/2022 - 18:54:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 03/20/2022 - 18:54:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 03/20/2022 - 19:09:14: -------- Mapchange to c4m2_sugarmill_a --------
+L 03/20/2022 - 19:09:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 03/20/2022 - 19:09:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 03/20/2022 - 19:20:59: -------- Mapchange to c4m3_sugarmill_b --------
+L 03/20/2022 - 19:21:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 03/20/2022 - 19:21:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 03/20/2022 - 19:33:23: -------- Mapchange to c4m4_milltown_b --------
+L 03/20/2022 - 19:33:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 03/20/2022 - 19:33:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 03/20/2022 - 19:43:47: -------- Mapchange to c4m5_milltown_escape --------
+L 03/20/2022 - 19:43:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 03/20/2022 - 19:43:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 03/20/2022 - 19:54:31: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220320.log") (Version "1.10.0.6528")
+L 03/20/2022 - 19:54:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 03/20/2022 - 19:54:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 03/20/2022 - 19:54:35: -------- Mapchange to c4m1_milltown_a --------
+L 03/20/2022 - 19:54:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 03/20/2022 - 19:54:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 03/20/2022 - 20:07:14: -------- Mapchange to c4m2_sugarmill_a --------
+L 03/20/2022 - 20:07:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 03/20/2022 - 20:07:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 03/20/2022 - 20:29:12: -------- Mapchange to c4m3_sugarmill_b --------
+L 03/20/2022 - 20:29:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 03/20/2022 - 20:29:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 03/20/2022 - 20:48:44: -------- Mapchange to c4m4_milltown_b --------
+L 03/20/2022 - 20:48:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 03/20/2022 - 20:48:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 03/20/2022 - 21:05:20: -------- Mapchange to c4m5_milltown_escape --------
+L 03/20/2022 - 21:05:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 03/20/2022 - 21:05:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")

@@ -1,0 +1,59 @@
+L 04/15/2022 - 00:01:12: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220415.log") (Version "1.10.0.6528")
+L 04/15/2022 - 00:01:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 04/15/2022 - 00:01:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 04/15/2022 - 00:05:32: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220415.log") (Version "1.10.0.6528")
+L 04/15/2022 - 00:05:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 04/15/2022 - 00:05:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 04/15/2022 - 00:05:50: -------- Mapchange to c8m1_apartment --------
+L 04/15/2022 - 00:05:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 04/15/2022 - 00:05:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 04/15/2022 - 00:15:48: -------- Mapchange to c8m2_subway --------
+L 04/15/2022 - 00:15:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 04/15/2022 - 00:15:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 04/15/2022 - 00:31:10: -------- Mapchange to c8m3_sewers --------
+L 04/15/2022 - 00:31:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 04/15/2022 - 00:31:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 04/15/2022 - 00:49:41: -------- Mapchange to c8m4_interior --------
+L 04/15/2022 - 00:49:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 04/15/2022 - 00:49:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 04/15/2022 - 00:53:27: -------- Mapchange to c8m4_interior --------
+L 04/15/2022 - 00:53:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 04/15/2022 - 00:53:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 04/15/2022 - 01:07:35: -------- Mapchange to c8m5_rooftop --------
+L 04/15/2022 - 01:07:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 04/15/2022 - 01:07:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 04/15/2022 - 01:19:24: [basebans.smx] "mind<6><STEAM_1:1:53759167><>" banned "hard<48><STEAM_1:1:598701106><>" (minutes "0") (reason "Admin disrespect")
+L 04/15/2022 - 01:19:39: -------- Mapchange to c10m1_caves --------
+L 04/15/2022 - 01:19:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 04/15/2022 - 01:19:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 04/15/2022 - 01:22:53: [funcommands.smx] "Altair<4><STEAM_1:0:90628109><>" toggled noclip on "MandaMenez ඞ<25><STEAM_1:0:217504163><>"
+L 04/15/2022 - 01:23:04: [funcommands.smx] "Altair<4><STEAM_1:0:90628109><>" toggled noclip on "MandaMenez ඞ<25><STEAM_1:0:217504163><>"
+L 04/15/2022 - 01:23:28: [playercommands.smx] "mind<6><STEAM_1:1:53759167><>" slapped "MandaMenez ඞ<25><STEAM_1:0:217504163><>" (damage "5")
+L 04/15/2022 - 01:23:29: [playercommands.smx] "Miguel<8><STEAM_1:1:452964136><>" slapped "mind<6><STEAM_1:1:53759167><>" (damage "0")
+L 04/15/2022 - 01:23:31: [playercommands.smx] "Miguel<8><STEAM_1:1:452964136><>" slapped "mind<6><STEAM_1:1:53759167><>" (damage "0")
+L 04/15/2022 - 01:23:37: [playercommands.smx] "Miguel<8><STEAM_1:1:452964136><>" slapped "Altair<4><STEAM_1:0:90628109><>" (damage "0")
+L 04/15/2022 - 01:23:40: [playercommands.smx] "mind<6><STEAM_1:1:53759167><>" slapped "MandaMenez ඞ<25><STEAM_1:0:217504163><>" (damage "5")
+L 04/15/2022 - 01:23:40: [playercommands.smx] "mind<6><STEAM_1:1:53759167><>" slapped "Altair<4><STEAM_1:0:90628109><>" (damage "5")
+L 04/15/2022 - 01:23:45: [playercommands.smx] "Miguel<8><STEAM_1:1:452964136><>" slapped "Draco<66><STEAM_1:1:81608440><>" (damage "0")
+L 04/15/2022 - 01:24:17: -------- Mapchange to c10m1_caves --------
+L 04/15/2022 - 01:24:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 04/15/2022 - 01:24:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 04/15/2022 - 01:30:54: -------- Mapchange to c10m2_drainage --------
+L 04/15/2022 - 01:30:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 04/15/2022 - 01:30:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 04/15/2022 - 01:43:17: -------- Mapchange to c10m3_ranchhouse --------
+L 04/15/2022 - 01:43:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 04/15/2022 - 01:43:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 04/15/2022 - 01:57:25: -------- Mapchange to c10m4_mainstreet --------
+L 04/15/2022 - 01:57:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 04/15/2022 - 01:57:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 04/15/2022 - 02:00:32: -------- Mapchange to c10m4_mainstreet --------
+L 04/15/2022 - 02:00:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 04/15/2022 - 02:00:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 04/15/2022 - 02:02:26: [basecommands.smx] "Miguel<8><STEAM_1:1:452964136><>" kicked "El Hongo Vision roikjo!!!<102><STEAM_1:0:214934852><>" (reason "")
+L 04/15/2022 - 02:23:56: -------- Mapchange to c10m5_houseboat --------
+L 04/15/2022 - 02:23:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 04/15/2022 - 02:23:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 04/15/2022 - 02:41:00: -------- Mapchange to c4m1_milltown_a --------
+L 04/15/2022 - 02:41:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 04/15/2022 - 02:41:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")

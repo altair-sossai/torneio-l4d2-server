@@ -1,0 +1,16 @@
+L 04/22/2022 - 21:47:42: SourceMod log file session started (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/L20220422.log") (Version "1.10.0.6528")
+L 04/22/2022 - 21:47:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 04/22/2022 - 21:47:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 04/22/2022 - 21:54:42: -------- Mapchange to c9m1_alleys --------
+L 04/22/2022 - 21:54:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 04/22/2022 - 21:54:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 04/22/2022 - 23:23:48: -------- Mapchange to c2m1_highway --------
+L 04/22/2022 - 23:23:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 04/22/2022 - 23:23:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 04/22/2022 - 23:39:02: -------- Mapchange to c2m2_fairgrounds --------
+L 04/22/2022 - 23:39:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 04/22/2022 - 23:39:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 04/22/2022 - 23:57:44: -------- Mapchange to c2m3_coaster --------
+L 04/22/2022 - 23:57:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 04/22/2022 - 23:57:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "0")
+L 04/23/2022 - 00:12:12: Log file closed.

@@ -1,0 +1,23 @@
+L 04/16/2022 - 11:21:19: SourceMod error session started
+L 04/16/2022 - 11:21:19: Info (map "c1m1_hotel") (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/errors_20220416.log")
+L 04/16/2022 - 11:21:19: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 04/16/2022 - 11:21:19: [SM] Unrecognized library "matchmaking_ds" (gameconf "/home/steam/l4d2/left4dead2/addons/sourcemod/gamedata/l4dslots.txt")
+L 04/16/2022 - 11:21:24: [l4dslots.smx] sv_maxplayers MS init error
+L 04/16/2022 - 11:24:00: Error log file session closed.
+L 04/16/2022 - 13:48:59: SourceMod error session started
+L 04/16/2022 - 13:48:59: Info (map "c1m1_hotel") (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/errors_20220416.log")
+L 04/16/2022 - 13:48:59: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 04/16/2022 - 13:48:59: [SM] Unrecognized library "matchmaking_ds" (gameconf "/home/steam/l4d2/left4dead2/addons/sourcemod/gamedata/l4dslots.txt")
+L 04/16/2022 - 13:49:05: [l4dslots.smx] sv_maxplayers MS init error
+L 04/16/2022 - 13:52:16: SourceMod error session started
+L 04/16/2022 - 13:52:16: Info (map "c1m1_hotel") (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/errors_20220416.log")
+L 04/16/2022 - 13:52:16: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 04/16/2022 - 13:52:16: [SM] Unrecognized library "matchmaking_ds" (gameconf "/home/steam/l4d2/left4dead2/addons/sourcemod/gamedata/l4dslots.txt")
+L 04/16/2022 - 13:52:18: [l4dslots.smx] sv_maxplayers MS init error
+L 04/16/2022 - 13:54:19: Error log file session closed.
+L 04/16/2022 - 21:21:02: SourceMod error session started
+L 04/16/2022 - 21:21:02: Info (map "c1m1_hotel") (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/errors_20220416.log")
+L 04/16/2022 - 21:21:02: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 04/16/2022 - 21:21:02: [SM] Unrecognized library "matchmaking_ds" (gameconf "/home/steam/l4d2/left4dead2/addons/sourcemod/gamedata/l4dslots.txt")
+L 04/16/2022 - 21:21:08: [l4dslots.smx] sv_maxplayers MS init error
+L 04/16/2022 - 21:23:15: Error log file session closed.

@@ -1,0 +1,30 @@
+L 02/02/2022 - 21:34:07: SourceMod error session started
+L 02/02/2022 - 21:34:07: Info (map "c1m1_hotel") (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/errors_20220202.log")
+L 02/02/2022 - 21:34:07: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 02/02/2022 - 21:34:07: [SM] Unrecognized library "matchmaking_ds" (gameconf "/home/steam/l4d2/left4dead2/addons/sourcemod/gamedata/l4dslots.txt")
+L 02/02/2022 - 21:34:12: [l4dslots.smx] sv_maxplayers MS init error
+L 02/02/2022 - 21:35:21: SourceMod error session started
+L 02/02/2022 - 21:35:21: Info (map "c1m1_hotel") (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/errors_20220202.log")
+L 02/02/2022 - 21:35:21: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 02/02/2022 - 21:35:21: [SM] Unrecognized library "matchmaking_ds" (gameconf "/home/steam/l4d2/left4dead2/addons/sourcemod/gamedata/l4dslots.txt")
+L 02/02/2022 - 21:35:22: [l4dslots.smx] sv_maxplayers MS init error
+L 02/02/2022 - 21:37:53: SourceMod error session started
+L 02/02/2022 - 21:37:53: Info (map "c1m1_hotel") (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/errors_20220202.log")
+L 02/02/2022 - 21:37:53: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 02/02/2022 - 21:37:53: [SM] Unrecognized library "matchmaking_ds" (gameconf "/home/steam/l4d2/left4dead2/addons/sourcemod/gamedata/l4dslots.txt")
+L 02/02/2022 - 21:37:54: [l4dslots.smx] sv_maxplayers MS init error
+L 02/02/2022 - 21:38:04: Error log file session closed.
+L 02/02/2022 - 22:30:09: SourceMod error session started
+L 02/02/2022 - 22:30:09: Info (map "c2m4_barns") (file "/home/steam/l4d2/left4dead2/addons/sourcemod/logs/errors_20220202.log")
+L 02/02/2022 - 22:30:09: [SM] Exception reported: Client index 19 is invalid
+L 02/02/2022 - 22:30:09: [SM] Blaming: l4d2_bwa_teamspanel.smx
+L 02/02/2022 - 22:30:09: [SM] Call stack trace:
+L 02/02/2022 - 22:30:09: [SM]   [0] IsClientConnected
+L 02/02/2022 - 22:30:09: [SM]   [1] Line 1740, /home/forums/content/files/9/9/8/5/2/95471.attach::PerformSwitch
+L 02/02/2022 - 22:30:09: [SM]   [2] Line 1574, /home/forums/content/files/9/9/8/5/2/95471.attach::JoinRandomTeam
+L 02/02/2022 - 22:30:21: [SM] Exception reported: Client index 19 is invalid
+L 02/02/2022 - 22:30:21: [SM] Blaming: l4d2_bwa_teamspanel.smx
+L 02/02/2022 - 22:30:21: [SM] Call stack trace:
+L 02/02/2022 - 22:30:21: [SM]   [0] IsClientConnected
+L 02/02/2022 - 22:30:21: [SM]   [1] Line 1740, /home/forums/content/files/9/9/8/5/2/95471.attach::PerformSwitch
+L 02/02/2022 - 22:30:21: [SM]   [2] Line 1550, /home/forums/content/files/9/9/8/5/2/95471.attach::JoinSurvivorTeam
